@@ -5,13 +5,13 @@
 <!-- United Newsserver  -->
 <g id="node1" class="node">
 <title>United Newsserver </title>
-<polygon fill="#91c49b" stroke="#91c49b" points="138.1725,-50 -.0575,-50 -.0575,-23 138.1725,-23 138.1725,-50"/>
+<polygon fill="#6c1494" stroke="#6c1494" points="138.1725,-50 -.0575,-50 -.0575,-23 138.1725,-23 138.1725,-50"/>
 <text text-anchor="middle" x="69.0575" y="-32.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">United Newsserver </text>
 </g>
 <!-- Elbracht -->
 <g id="node2" class="node">
 <title>Elbracht</title>
-<polygon fill="#91c49b" stroke="#91c49b" points="291.4188,-50 223.7326,-50 223.7326,-23 291.4188,-23 291.4188,-50"/>
+<polygon fill="#6c1494" stroke="#6c1494" points="291.4188,-50 223.7326,-50 223.7326,-23 291.4188,-23 291.4188,-50"/>
 <text text-anchor="middle" x="257.5757" y="-32.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">Elbracht</text>
 </g>
 <!-- United Newsserver &#45;&#45;Elbracht -->
@@ -22,7 +22,7 @@
 <!-- United Newsserver -->
 <g id="node3" class="node">
 <title>United Newsserver</title>
-<polygon fill="#91c49b" stroke="#91c49b" points="523.373,-72 388.9238,-72 388.9238,-45 523.373,-45 523.373,-72"/>
+<polygon fill="#6c1494" stroke="#6c1494" points="523.373,-72 388.9238,-72 388.9238,-45 523.373,-45 523.373,-72"/>
 <text text-anchor="middle" x="456.1484" y="-54.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">United Newsserver</text>
 </g>
 <!-- Elbracht&#45;&#45;United Newsserver -->
@@ -33,7 +33,7 @@
 <!-- Premium News  -->
 <g id="node4" class="node">
 <title>Premium News </title>
-<polygon fill="#91c49b" stroke="#91c49b" points="513.4158,-27 398.881,-27 398.881,0 513.4158,0 513.4158,-27"/>
+<polygon fill="#6c1494" stroke="#6c1494" points="513.4158,-27 398.881,-27 398.881,0 513.4158,0 513.4158,-27"/>
 <text text-anchor="middle" x="456.1484" y="-9.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">Premium News </text>
 </g>
 <!-- Elbracht&#45;&#45;Premium News  -->
@@ -44,13 +44,13 @@
 <!-- NewsGuy  -->
 <g id="node5" class="node">
 <title>NewsGuy </title>
-<polygon fill="#444139" stroke="#444139" points="109.1183,-151 28.9967,-151 28.9967,-124 109.1183,-124 109.1183,-151"/>
+<polygon fill="#92623a" stroke="#92623a" points="109.1183,-151 28.9967,-151 28.9967,-124 109.1183,-124 109.1183,-151"/>
 <text text-anchor="middle" x="69.0575" y="-133.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">NewsGuy </text>
 </g>
 <!-- NewsGuy / HW Media -->
 <g id="node6" class="node">
 <title>NewsGuy / HW Media</title>
-<polygon fill="#444139" stroke="#444139" points="334.2437,-151 180.9077,-151 180.9077,-124 334.2437,-124 334.2437,-151"/>
+<polygon fill="#92623a" stroke="#92623a" points="334.2437,-151 180.9077,-151 180.9077,-124 334.2437,-124 334.2437,-151"/>
 <text text-anchor="middle" x="257.5757" y="-133.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">NewsGuy / HW Media</text>
 </g>
 <!-- NewsGuy &#45;&#45;NewsGuy / HW Media -->
@@ -61,7 +61,7 @@
 <!-- NewsGuy -->
 <g id="node7" class="node">
 <title>NewsGuy</title>
-<polygon fill="#444139" stroke="#444139" points="494.3181,-162 417.9787,-162 417.9787,-135 494.3181,-135 494.3181,-162"/>
+<polygon fill="#92623a" stroke="#92623a" points="494.3181,-162 417.9787,-162 417.9787,-135 494.3181,-135 494.3181,-162"/>
 <text text-anchor="middle" x="456.1484" y="-144.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">NewsGuy</text>
 </g>
 <!-- NewsGuy / HW Media&#45;&#45;NewsGuy -->
@@ -72,7 +72,7 @@
 <!-- nntpjunkie.com -->
 <g id="node8" class="node">
 <title>nntpjunkie.com</title>
-<polygon fill="#444139" stroke="#444139" points="511.2817,-117 401.0151,-117 401.0151,-90 511.2817,-90 511.2817,-117"/>
+<polygon fill="#92623a" stroke="#92623a" points="511.2817,-117 401.0151,-117 401.0151,-90 511.2817,-90 511.2817,-117"/>
 <text text-anchor="middle" x="456.1484" y="-99.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">nntpjunkie.com</text>
 </g>
 <!-- NewsGuy / HW Media&#45;&#45;nntpjunkie.com -->
@@ -122,13 +122,13 @@
 <!-- Giganews -->
 <g id="node13" class="node">
 <title>Giganews</title>
-<polygon fill="#3f022e" stroke="#3f022e" points="108.2921,-286 29.8229,-286 29.8229,-259 108.2921,-259 108.2921,-286"/>
+<polygon fill="#3098d8" stroke="#3098d8" points="108.2921,-286 29.8229,-286 29.8229,-259 108.2921,-259 108.2921,-286"/>
 <text text-anchor="middle" x="69.0575" y="-268.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">Giganews</text>
 </g>
 <!-- Giganews  -->
 <g id="node14" class="node">
 <title>Giganews </title>
-<polygon fill="#3f022e" stroke="#3f022e" points="298.7006,-286 216.4508,-286 216.4508,-259 298.7006,-259 298.7006,-286"/>
+<polygon fill="#3098d8" stroke="#3098d8" points="298.7006,-286 216.4508,-286 216.4508,-259 298.7006,-259 298.7006,-286"/>
 <text text-anchor="middle" x="257.5757" y="-268.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">Giganews </text>
 </g>
 <!-- Giganews&#45;&#45;Giganews  -->
@@ -139,7 +139,7 @@
 <!-- Giganews &#160; -->
 <g id="node15" class="node">
 <title>Giganews  </title>
-<polygon fill="#3f022e" stroke="#3f022e" points="499.1638,-308 413.133,-308 413.133,-281 499.1638,-281 499.1638,-308"/>
+<polygon fill="#3098d8" stroke="#3098d8" points="499.1638,-308 413.133,-308 413.133,-281 499.1638,-281 499.1638,-308"/>
 <text text-anchor="middle" x="456.1484" y="-290.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">Giganews  </text>
 </g>
 <!-- Giganews &#45;&#45;Giganews &#160; -->
@@ -150,7 +150,7 @@
 <!-- Supernews -->
 <g id="node16" class="node">
 <title>Supernews</title>
-<polygon fill="#3f022e" stroke="#3f022e" points="499.1652,-263 413.1316,-263 413.1316,-236 499.1652,-236 499.1652,-263"/>
+<polygon fill="#3098d8" stroke="#3098d8" points="499.1652,-263 413.1316,-263 413.1316,-236 499.1652,-236 499.1652,-263"/>
 <text text-anchor="middle" x="456.1484" y="-245.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">Supernews</text>
 </g>
 <!-- Giganews &#45;&#45;Supernews -->
@@ -161,7 +161,7 @@
 <!-- PowerUsenet\nRhinoNewsgroups\nUsenet.net -->
 <g id="node17" class="node">
 <title>PowerUsenet\nRhinoNewsgroups\nUsenet.net</title>
-<polygon fill="#3f022e" stroke="#3f022e" points="715.4024,-323.9014 584.7059,-323.9014 584.7059,-265.0986 715.4024,-265.0986 715.4024,-323.9014"/>
+<polygon fill="#3098d8" stroke="#3098d8" points="715.4024,-323.9014 584.7059,-323.9014 584.7059,-265.0986 715.4024,-265.0986 715.4024,-323.9014"/>
 <text text-anchor="middle" x="650.0542" y="-307.1" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">PowerUsenet</text>
 <text text-anchor="middle" x="650.0542" y="-290.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">RhinoNewsgroups</text>
 <text text-anchor="middle" x="650.0542" y="-273.5" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">Usenet.net</text>
