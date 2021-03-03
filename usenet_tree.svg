@@ -181,7 +181,7 @@
 <g id="node19" class="node">
 <title>Its Hosted</title>
 <polygon fill="#368a8b" stroke="#368a8b" points="322.1096,-362.5 289.8426,-383.0013 225.3088,-383.0013 193.0418,-362.5 225.3088,-341.9987 289.8426,-341.9987 322.1096,-362.5"/>
-<text text-anchor="middle" x="257.5757" y="-358.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffa500">Its Hosted</text>
+<text text-anchor="middle" x="257.5757" y="-358.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">Its Hosted</text>
 </g>
 <!-- Usenet.Farm &#45;&#45;Its Hosted -->
 <g id="edge14" class="edge">
@@ -192,7 +192,7 @@
 <g id="node20" class="node">
 <title>Usenet.Farm</title>
 <polygon fill="#368a8b" stroke="#368a8b" points="535.3725,-362.5 495.7605,-383.0013 416.5363,-383.0013 376.9243,-362.5 416.5363,-341.9987 495.7605,-341.9987 535.3725,-362.5"/>
-<text text-anchor="middle" x="456.1484" y="-358.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffa500">Usenet.Farm</text>
+<text text-anchor="middle" x="456.1484" y="-358.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">Usenet.Farm</text>
 </g>
 <!-- Its Hosted&#45;&#45;Usenet.Farm -->
 <g id="edge15" class="edge">
@@ -221,7 +221,7 @@
 <g id="node23" class="node">
 <title>ViperNews</title>
 <polygon fill="#c16ffa" stroke="#c16ffa" points="325.7003,-422.5 291.638,-443.0013 223.5134,-443.0013 189.4511,-422.5 223.5134,-401.9987 291.638,-401.9987 325.7003,-422.5"/>
-<text text-anchor="middle" x="257.5757" y="-418.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffa500">ViperNews</text>
+<text text-anchor="middle" x="257.5757" y="-418.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">ViperNews</text>
 </g>
 <!-- Uzo Reto&#45;&#45;ViperNews -->
 <g id="edge17" class="edge">
@@ -232,7 +232,7 @@
 <g id="node24" class="node">
 <title>ViperNews </title>
 <polygon fill="#c16ffa" stroke="#c16ffa" points="527.6258,-422.5 491.8871,-443.0013 420.4097,-443.0013 384.671,-422.5 420.4097,-401.9987 491.8871,-401.9987 527.6258,-422.5"/>
-<text text-anchor="middle" x="456.1484" y="-418.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffa500">ViperNews </text>
+<text text-anchor="middle" x="456.1484" y="-418.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">ViperNews </text>
 </g>
 <!-- ViperNews&#45;&#45;ViperNews  -->
 <g id="edge18" class="edge">
@@ -496,7 +496,7 @@
 <g id="node45" class="node">
 <title>Eweka</title>
 <polygon fill="#ff0000" stroke="#ff0000" points="503.3761,-1538.5 479.7622,-1559.0013 432.5345,-1559.0013 408.9207,-1538.5 432.5345,-1517.9987 479.7622,-1517.9987 503.3761,-1538.5"/>
-<text text-anchor="middle" x="456.1484" y="-1534.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffa500">Eweka</text>
+<text text-anchor="middle" x="456.1484" y="-1534.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">Eweka</text>
 </g>
 <!-- Eweka Internet Services&#45;&#45;Eweka -->
 <g id="edge37" class="edge">
@@ -702,11 +702,18 @@
 <polygon fill="#000000" stroke="#000000" points="324.8396,-1777 190.3118,-1777 190.3118,-1750 324.8396,-1750 324.8396,-1777"/>
 <text text-anchor="middle" x="257.5757" y="-1759.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">Vesion 03-03-2021</text>
 </g>
-<!-- NTD -->
+<!-- DMCA -->
 <g id="node64" class="node">
+<title>DMCA</title>
+<polygon fill="#000000" stroke="#000000" points="484.8592,-1777 427.4376,-1777 427.4376,-1750 484.8592,-1750 484.8592,-1777"/>
+<text text-anchor="middle" x="456.1484" y="-1759.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">DMCA</text>
+</g>
+<!-- Vesion 03&#45;03&#45;2021&#45;&#45;DMCA -->
+<!-- NTD -->
+<g id="node65" class="node">
 <title>NTD</title>
 <polygon fill="#000000" stroke="#000000" points="105.6598,-1763.5 87.3587,-1784.0013 50.7563,-1784.0013 32.4552,-1763.5 50.7563,-1742.9987 87.3587,-1742.9987 105.6598,-1763.5"/>
-<text text-anchor="middle" x="69.0575" y="-1759.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffa500">NTD</text>
+<text text-anchor="middle" x="69.0575" y="-1759.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">NTD</text>
 </g>
 <!-- NTD&#45;&#45;Vesion 03&#45;03&#45;2021 -->
 </g>
