@@ -10,10 +10,7 @@ edge [color=white] #the edge is the lines between company/backbone/provider rese
 "United Newsserver " --	"Elbracht"
 "Elbracht" -- "United Newsserver"
 "Elbracht" -- "Premium News "
-    
-    node [color="#f6b72d"]
-"Altopia" -- "Altopia " -- "Altopia  "
- 
+     
     node [color="#444139"]
 "NewsGuy " -- "NewsGuy / HW Media" -- "NewsGuy"
 "NewsGuy / HW Media" -- "nntpjunkie.com"
