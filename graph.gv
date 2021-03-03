@@ -72,7 +72,7 @@ node[fontcolor=white]
 
 	node[shape=hexagon fillcolor=black fontcolor="#ffb700"] edge [style=invis]
 "NTD"  -- "DMCA" -- "NTD+DCMA"
-node[fontcolor=white] edge [style=invis]
+node[shape = box fontcolor=white] edge [style=invis]
 "Remastered by Catnicia"--"Vesion 04-03-2021" -- "Forked from burwinch/usenet_tree"
 
 
