@@ -1,4 +1,3 @@
-
 <?xml version="1.0" encoding="UTF-8" ?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="737pt" height="1792pt" viewBox="0.00 0.00 736.85 1791.75">
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 1787.7491)">
@@ -140,13 +139,13 @@
 </g>
 <!-- Giganews &#160; -->
 <g id="node15" class="node">
-<title>Giganews  </title>
+<title>Giganews  </title>
 <polygon fill="none" stroke="#3f022e" stroke-dasharray="5,2" points="499.1638,-308 413.133,-308 413.133,-281 499.1638,-281 499.1638,-308"/>
-<text text-anchor="middle" x="456.1484" y="-290.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Giganews  </text>
+<text text-anchor="middle" x="456.1484" y="-290.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Giganews  </text>
 </g>
 <!-- Giganews &#45;&#45;Giganews &#160; -->
 <g id="edge11" class="edge">
-<title>Giganews --Giganews  </title>
+<title>Giganews --Giganews  </title>
 <path fill="none" stroke="#000000" d="M298.7201,-277.0584C332.1185,-280.7586 379.0693,-285.9604 412.9961,-289.7191"/>
 </g>
 <!-- Supernews -->
@@ -170,7 +169,7 @@
 </g>
 <!-- Giganews &#160;&#45;&#45;PowerUsenet\nRhinoNewsgroups\nUsenet.net -->
 <g id="edge13" class="edge">
-<title>Giganews  --PowerUsenet\nRhinoNewsgroups\nUsenet.net</title>
+<title>Giganews  --PowerUsenet\nRhinoNewsgroups\nUsenet.net</title>
 <path fill="none" stroke="#000000" d="M499.1824,-294.5C524.2867,-294.5 556.4629,-294.5 584.6473,-294.5"/>
 </g>
 <!-- Usenet.Farm  -->
@@ -283,13 +282,13 @@
 </g>
 <!-- UsenetExpress &#160; -->
 <g id="node28" class="node">
-<title>UsenetExpress  </title>
+<title>UsenetExpress  </title>
 <polygon fill="none" stroke="#2a7325" stroke-dasharray="5,2" points="515.3374,-578 396.9594,-578 396.9594,-551 515.3374,-551 515.3374,-578"/>
-<text text-anchor="middle" x="456.1484" y="-560.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">UsenetExpress  </text>
+<text text-anchor="middle" x="456.1484" y="-560.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">UsenetExpress  </text>
 </g>
 <!-- UsenetExpress &#45;&#45;UsenetExpress &#160; -->
 <g id="edge21" class="edge">
-<title>UsenetExpress --UsenetExpress  </title>
+<title>UsenetExpress --UsenetExpress  </title>
 <path fill="none" stroke="#000000" d="M315.0111,-532.5159C340.6688,-538.3303 370.8906,-545.1791 396.7718,-551.0442"/>
 </g>
 <!-- NewsDemon -->
@@ -326,7 +325,7 @@
 </g>
 <!-- UsenetExpress &#160;&#45;&#45;UsenetNews\nUsenetPrime\n UsenetFire\nThunderNews\n theCubeNet -->
 <g id="edge22" class="edge">
-<title>UsenetExpress  --UsenetNews\nUsenetPrime\n UsenetFire\nThunderNews\n theCubeNet</title>
+<title>UsenetExpress  --UsenetNews\nUsenetPrime\n UsenetFire\nThunderNews\n theCubeNet</title>
 <path fill="none" stroke="#000000" d="M515.3801,-564.5C541.8875,-564.5 572.8516,-564.5 598.4014,-564.5"/>
 </g>
 <!-- NewsGroupDirect&#45;&#45;NewsGroupDirect  -->
