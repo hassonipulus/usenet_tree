@@ -26,7 +26,7 @@ edge [color=black] #the edge is the lines between company/backbone/provider rese
     node [color="#368a8b"]
 "Usenet.Farm " -- {node[shape=hexagon]"Its Hosted"} -- {node[shape=hexagon]"Usenet.Farm"} -- "UsenetNews\nFrugalUsenet" #the "{node[shape=folder fontcolor=orange]"Usenet.Farm"}" is for marking something as NTD
  
-    node [color="#c16ffa"]
+    node [color="#f6b72d"]
 "Uzo Reto" -- {node[shape=hexagon]"ViperNews"} -- {node[shape=hexagon]"ViperNews "} -- " UsenetNews\nNovaUsenet"
  
     node [color="#2a7325"]
