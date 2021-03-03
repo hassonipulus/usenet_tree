@@ -1,0 +1,109 @@
+
+# https://edotor.net/
+graph graphname {
+bgcolor=black  	#background color
+rankdir=LR 		#direction of graph, eg LR is Left-to-Right ,TB is Top-to-Bottom
+node [shape = box style="filled" fontcolor=white height=.37 fontname=Helvetica] #these effect everything below unless overridden by another "node[]" statement
+edge [color=white] #the edge is the lines between company/backbone/provider reseller
+
+    node [color="#91c49b"] #we change the colour of each company, eg omicron is "red"
+"United Newsserver " --	"Elbracht"
+"Elbracht" -- "United Newsserver"
+"Elbracht" -- "Premium News "
+    
+    node [color="#f6b72d"]
+"Altopia" -- "Altopia " -- "Altopia  "
+ 
+    node [color="#444139"]
+"NewsGuy " -- "NewsGuy / HW Media" -- "NewsGuy"
+"NewsGuy / HW Media" -- "nntpjunkie.com"
+
+    node [color="#ec2efa"]
+"Newscene " -- "Novia / HW Media" -- "Newscene" -- "Premium News"
+ 
+    node [color="#3f022e"]
+"Giganews" --	"Giganews " -- "Giganews  "
+"Giganews " --	"Supernews"
+"Giganews  " --	"PowerUsenet\nRhinoNewsgroups\nUsenet.net"
+
+    node [color="#368a8b"]
+"Usenet.Farm " -- {node[shape=folder fontcolor=orange]"Its Hosted"} -- {node[shape=folder fontcolor=orange]"Usenet.Farm"} -- "UsenetNews\nFrugalUsenet" #the "{node[shape=folder fontcolor=orange]"Usenet.Farm"}" is for marking something as NTD
+ 
+    node [color="#c16ffa"]
+"Uzo Reto" -- {node[shape=folder fontcolor=orange]"ViperNews"} -- {node[shape=folder fontcolor=orange]"ViperNews "} -- " UsenetNews\nNovaUsenet"
+ 
+    node [color="#2a7325"]
+"UsenetExpress" -- "UsenetExpress " -- "UsenetExpress  " -- "UsenetNews\nUsenetPrime\n UsenetFire\nThunderNews\n theCubeNet"
+"UsenetExpress " -- "NewsDemon"
+"UsenetExpress " -- "NewsGroupDirect "
+"UsenetExpress" -- "NewsGroupDirect" -- "NewsGroupDirect "
+ 
+    node [color=blue]
+"Abavia" -- "Abavia " -- "Cheapnews"
+"Abavia " -- "EasyUsenet"
+"Abavia " -- "Usenet.nl"
+"Abavia " -- "Usenet.org"
+"Abavia " -- "Usenext"
+"Abavia " -- "XS News / Xenna"
+"Abavia " -- "XS News"
+"XS News" -- "aEton\nBulknews\nDreamload\nGebruikhet\nI-Telligent\nNewsGrabber\nNewsXS\nSMS Usenet\nStingy Usenet\nUsenet.today\nUsenetAgency\nUsenetDiscount\nUsenetDiscounter.com\nUsenet-Server\nUseNight\nXS Usenet\nZ51"
+ 
+    node [color=red]
+"Omicron" --  "Eweka Internet Services" -- {node[shape=folder fontcolor=orange] Eweka}
+"Omicron" -- "HW Media"
+"HW Media" -- "Astraweb"
+"HW Media" -- "Easynews"
+"HW Media" -- "Newsgroup Ninja"
+"HW Media" -- "NewsHosting"
+"HW Media" -- "UsenetServer"
+"NewsHosting" -- "Alibis\nAnonyNews\nAtlantisNews\nBinary Boy\nBinTube\nBlockNews\nBudgetNews\nFast-Usenet\nFirstload\nForte Agent\nFrugal Usenet\nHitNews\niLoad\nMaximumUsenet\nNewsFusion\nNewsGroup-Binaries\nNewsGroupDownload\nNewsLeecher\nNgroups\nPrepaid-Usenet\nShemes\nSimonNews\nSnelNL\nUncensored Newsfeed\nUsenet-News\nUsenet.nl\nUsenet.se\nUsenet4u\nUsenetAccess\nUseNetNow\nUsenetStorm\nUsenext\nXenNews"
+ 
+"Omicron" -- "Base IP / HW Media"
+"Base IP / HW Media" -- "TweakNews"
+"Base IP / HW Media" -- "PureUsenet"
+"Base IP / HW Media" -- "SunnyUsenet"
+"Base IP / HW Media" -- "XLned"
+"XLned" -- "ExtremeUsenet\nUsenetBucket"
+
+    node [style=solid color=white] edge [style=invis]
+"Company" -- "Backbone" -- "Provider" -- "Resellers"
+"Vesion 03-03-2021"
+
+	node[style=filled shape=folder fillcolor=black fontcolor=orange]
+"NTD" -- "Vesion 03-03-2021"
+
+}
+
+/*The " -- " symbol defiines a relationship between "parent -- child"
+
+Some companies/providers/backbones have the same name Eg Altopia_company_ serves Altopia_backbone
+who then serves Altopia_provider, because they all have to have unique names I just added some extra spaces
+at the end eg "Altopia" -- "Altopia " -- "Altoipia  "
+
+
+To generate an updated version it's all doable in your browser and we've kept it fairly simple.
+
+https://edotor.net/ is probably where you're viewing this from.
+
+As you edit the left text you'll see, in real time, the changes made on the right side.
+
+Importantly when you're done editing, in the top-left click the "Download" button, select SVG.
+
+Woopdidoo, you now have downloaded an updated tree diagram.
+
+Also importantly, in the top right corner click "Copy Share Link". Now you can share this link 
+for people to resume where ever you left off editing.
+
+
+The rest is fairly self explanitory. 
+
+For the non-programmers:
+
+The " -- " symbol defiines a relationship between "parent -- child"
+
+Curly braces "{}" constrict code to within the braces eg. "{node[shape=folder fontcolor=orange] Eweka}" the "shape" and "fontcolor" only effects "Eweka" because it's the only thing contained within the curly braces
+
+"\n" does a new line, eg "UsenetNews\nUsenetPrime\n UsenetFire" puts each reseller on a new line
+
+"#" is a comment which doesn't effect the code, effects from "#" til the end of the line
+*/
