@@ -1,10 +1,10 @@
 
 # https://edotor.net/
 graph graphname {
-bgcolor=black  	#background color
+bgcolor=white  	#background color
 rankdir=LR 		#direction of graph, eg LR is Left-to-Right ,TB is Top-to-Bottom
-node [shape = box style="filled" fontcolor=white height=.37 fontname=Helvetica] #these effect everything below unless overridden by another "node[]" statement
-edge [color=white] #the edge is the lines between company/backbone/provider reseller
+node [shape = box style="dashed" fontcolor=black height=.37 fontname=Helvetica] #these effect everything below unless overridden by another "node[]" statement
+edge [color=black] #the edge is the lines between company/backbone/provider reseller
 
     node [color="#91c49b"] #we change the colour of each company, eg omicron is "red"
 "United Newsserver " --	"Elbracht"
@@ -24,10 +24,10 @@ edge [color=white] #the edge is the lines between company/backbone/provider rese
 "Giganews  " --	"PowerUsenet\nRhinoNewsgroups\nUsenet.net"
 
     node [color="#368a8b"]
-"Usenet.Farm " -- {node[shape=folder fontcolor=orange]"Its Hosted"} -- {node[shape=folder fontcolor=orange]"Usenet.Farm"} -- "UsenetNews\nFrugalUsenet" #the "{node[shape=folder fontcolor=orange]"Usenet.Farm"}" is for marking something as NTD
+"Usenet.Farm " -- {node[shape=hexagon fontcolor=orange]"Its Hosted"} -- {node[shape=hexagon fontcolor=orange]"Usenet.Farm"} -- "UsenetNews\nFrugalUsenet" #the "{node[shape=folder fontcolor=orange]"Usenet.Farm"}" is for marking something as NTD
  
     node [color="#c16ffa"]
-"Uzo Reto" -- {node[shape=folder fontcolor=orange]"ViperNews"} -- {node[shape=folder fontcolor=orange]"ViperNews "} -- " UsenetNews\nNovaUsenet"
+"Uzo Reto" -- {node[shape=hexagon fontcolor=orange]"ViperNews"} -- {node[shape=hexagon fontcolor=orange]"ViperNews "} -- " UsenetNews\nNovaUsenet"
  
     node [color="#2a7325"]
 "UsenetExpress" -- "UsenetExpress " -- "UsenetExpress  " -- "UsenetNews\nUsenetPrime\n UsenetFire\nThunderNews\n theCubeNet"
@@ -46,7 +46,7 @@ edge [color=white] #the edge is the lines between company/backbone/provider rese
 "XS News" -- "aEton\nBulknews\nDreamload\nGebruikhet\nI-Telligent\nNewsGrabber\nNewsXS\nSMS Usenet\nStingy Usenet\nUsenet.today\nUsenetAgency\nUsenetDiscount\nUsenetDiscounter.com\nUsenet-Server\nUseNight\nXS Usenet\nZ51"
  
     node [color=red]
-"Omicron" --  "Eweka Internet Services" -- {node[shape=folder fontcolor=orange] Eweka}
+"Omicron" --  "Eweka Internet Services" -- {node[shape=hexagon fontcolor=orange] Eweka}
 "Omicron" -- "HW Media"
 "HW Media" -- "Astraweb"
 "HW Media" -- "Easynews"
@@ -62,11 +62,11 @@ edge [color=white] #the edge is the lines between company/backbone/provider rese
 "Base IP / HW Media" -- "XLned"
 "XLned" -- "ExtremeUsenet\nUsenetBucket"
 
-    node [style=solid color=white] edge [style=invis]
+    node [shape = box style="dashed" color=black] 
 "Company" -- "Backbone" -- "Provider" -- "Resellers"
 "Vesion 03-03-2021"
 
-	node[style=filled shape=folder fillcolor=black fontcolor=orange]
+	node[shape=hexagon fillcolor=black fontcolor=orange] edge [style=invis]
 "NTD" -- "Vesion 03-03-2021"
 
 }
