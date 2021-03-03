@@ -56,7 +56,10 @@ edge [color=black] #the edge is the lines between company/backbone/provider rese
 "NewsHosting" -- "Alibis\nAnonyNews\nAtlantisNews\nBinary Boy\nBinTube\nBlockNews\nBudgetNews\nFast-Usenet\nFirstload\nForte Agent\nFrugal Usenet\nHitNews\niLoad\nMaximumUsenet\nNewsFusion\nNewsGroup-Binaries\nNewsGroupDownload\nNewsLeecher\nNgroups\nPrepaid-Usenet\nShemes\nSimonNews\nSnelNL\nUncensored Newsfeed\nUsenet-News\nUsenet.nl\nUsenet.se\nUsenet4u\nUsenetAccess\nUseNetNow\nUsenetStorm\nUsenext\nXenNews"
  
 "Omicron" -- "Base IP / HW Media"
+"Base IP / HW Media"
+node[shape=hexagon fontcolor="#ffb700"]
 "Base IP / HW Media" -- "TweakNews"
+node[fontcolor=white]
 "Base IP / HW Media" -- "PureUsenet"
 "Base IP / HW Media" -- "SunnyUsenet"
 "Base IP / HW Media" -- "XLned"
@@ -64,11 +67,15 @@ edge [color=black] #the edge is the lines between company/backbone/provider rese
 
     node [shape = box style="filled" color=black] 
 "Company" -- "Backbone" -- "Provider" -- "Resellers"
-edge [style=invis]
-"Vesion 03-03-2021" -- "DMCA"
-
 	node[shape=hexagon fillcolor=black] edge [style=invis]
-"NTD" -- "Vesion 03-03-2021"
+"NTD"  -- "DMCA"
+
+	node[shape=hexagon fillcolor=black fontcolor="#ffb700"] edge [style=invis]
+"NTD"  -- "DMCA" -- "NTD+DCMA"
+node[fontcolor=white] edge [style=invis]
+"Remastered by Catnicia"--"Vesion 04-03-2021" -- "Forked from burwinch/usenet_tree"
+
+
 }
 
 /*The " -- " symbol defiines a relationship between "parent -- child"
