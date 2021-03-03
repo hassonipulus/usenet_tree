@@ -6,19 +6,19 @@ rankdir=LR 		#direction of graph, eg LR is Left-to-Right ,TB is Top-to-Bottom
 node [shape = box  style=filled fontcolor=white height=.37 fontname=Helvetica] #these effect everything below unless overridden by another "node[]" statement
 edge [color=black] #the edge is the lines between company/backbone/provider reseller
 
-    node [color="#91c49b"] #we change the colour of each company, eg omicron is "red"
+    node [color="#6c1494"] #we change the colour of each company, eg omicron is "red"
 "United Newsserver " --	"Elbracht"
 "Elbracht" -- "United Newsserver"
 "Elbracht" -- "Premium News "
      
-    node [color="#444139"]
+    node [color="#92623a"]
 "NewsGuy " -- "NewsGuy / HW Media" -- "NewsGuy"
 "NewsGuy / HW Media" -- "nntpjunkie.com"
 
     node [color="#ec2efa"]
 "Newscene " -- "Novia / HW Media" -- "Newscene" -- "Premium News"
  
-    node [color="#3f022e"]
+    node [color="#3098d8"]
 "Giganews" --	"Giganews " -- "Giganews  "
 "Giganews " --	"Supernews"
 "Giganews  " --	"PowerUsenet\nRhinoNewsgroups\nUsenet.net"
