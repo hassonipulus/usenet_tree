@@ -6,14 +6,14 @@
 <!-- United Newsserver  -->
 <g id="node1" class="node">
 <title>United Newsserver </title>
-<polygon fill="none" stroke="#91c49b" points="138.1725,-50 -.0575,-50 -.0575,-23 138.1725,-23 138.1725,-50"/>
-<text text-anchor="middle" x="69.0575" y="-32.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">United Newsserver </text>
+<polygon fill="#91c49b" stroke="#91c49b" points="138.1725,-50 -.0575,-50 -.0575,-23 138.1725,-23 138.1725,-50"/>
+<text text-anchor="middle" x="69.0575" y="-32.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">United Newsserver </text>
 </g>
 <!-- Elbracht -->
 <g id="node2" class="node">
 <title>Elbracht</title>
-<polygon fill="none" stroke="#91c49b" points="291.4188,-50 223.7326,-50 223.7326,-23 291.4188,-23 291.4188,-50"/>
-<text text-anchor="middle" x="257.5757" y="-32.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Elbracht</text>
+<polygon fill="#91c49b" stroke="#91c49b" points="291.4188,-50 223.7326,-50 223.7326,-23 291.4188,-23 291.4188,-50"/>
+<text text-anchor="middle" x="257.5757" y="-32.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">Elbracht</text>
 </g>
 <!-- United Newsserver &#45;&#45;Elbracht -->
 <g id="edge1" class="edge">
@@ -23,8 +23,8 @@
 <!-- United Newsserver -->
 <g id="node3" class="node">
 <title>United Newsserver</title>
-<polygon fill="none" stroke="#91c49b" points="511.3732,-72 376.924,-72 376.924,-45 511.3732,-45 511.3732,-72"/>
-<text text-anchor="middle" x="444.1486" y="-54.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">United Newsserver</text>
+<polygon fill="#91c49b" stroke="#91c49b" points="511.3732,-72 376.924,-72 376.924,-45 511.3732,-45 511.3732,-72"/>
+<text text-anchor="middle" x="444.1486" y="-54.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">United Newsserver</text>
 </g>
 <!-- Elbracht&#45;&#45;United Newsserver -->
 <g id="edge2" class="edge">
@@ -34,8 +34,8 @@
 <!-- Premium News  -->
 <g id="node4" class="node">
 <title>Premium News </title>
-<polygon fill="none" stroke="#91c49b" points="501.416,-27 386.8812,-27 386.8812,0 501.416,0 501.416,-27"/>
-<text text-anchor="middle" x="444.1486" y="-9.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Premium News </text>
+<polygon fill="#91c49b" stroke="#91c49b" points="501.416,-27 386.8812,-27 386.8812,0 501.416,0 501.416,-27"/>
+<text text-anchor="middle" x="444.1486" y="-9.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">Premium News </text>
 </g>
 <!-- Elbracht&#45;&#45;Premium News  -->
 <g id="edge3" class="edge">
@@ -45,14 +45,14 @@
 <!-- NewsGuy  -->
 <g id="node5" class="node">
 <title>NewsGuy </title>
-<polygon fill="none" stroke="#444139" points="109.1183,-151 28.9967,-151 28.9967,-124 109.1183,-124 109.1183,-151"/>
-<text text-anchor="middle" x="69.0575" y="-133.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">NewsGuy </text>
+<polygon fill="#444139" stroke="#444139" points="109.1183,-151 28.9967,-151 28.9967,-124 109.1183,-124 109.1183,-151"/>
+<text text-anchor="middle" x="69.0575" y="-133.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">NewsGuy </text>
 </g>
 <!-- NewsGuy / HW Media -->
 <g id="node6" class="node">
 <title>NewsGuy / HW Media</title>
-<polygon fill="none" stroke="#444139" points="334.2437,-151 180.9077,-151 180.9077,-124 334.2437,-124 334.2437,-151"/>
-<text text-anchor="middle" x="257.5757" y="-133.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">NewsGuy / HW Media</text>
+<polygon fill="#444139" stroke="#444139" points="334.2437,-151 180.9077,-151 180.9077,-124 334.2437,-124 334.2437,-151"/>
+<text text-anchor="middle" x="257.5757" y="-133.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">NewsGuy / HW Media</text>
 </g>
 <!-- NewsGuy &#45;&#45;NewsGuy / HW Media -->
 <g id="edge4" class="edge">
@@ -62,8 +62,8 @@
 <!-- NewsGuy -->
 <g id="node7" class="node">
 <title>NewsGuy</title>
-<polygon fill="none" stroke="#444139" points="482.3183,-162 405.9789,-162 405.9789,-135 482.3183,-135 482.3183,-162"/>
-<text text-anchor="middle" x="444.1486" y="-144.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">NewsGuy</text>
+<polygon fill="#444139" stroke="#444139" points="482.3183,-162 405.9789,-162 405.9789,-135 482.3183,-135 482.3183,-162"/>
+<text text-anchor="middle" x="444.1486" y="-144.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">NewsGuy</text>
 </g>
 <!-- NewsGuy / HW Media&#45;&#45;NewsGuy -->
 <g id="edge5" class="edge">
@@ -73,8 +73,8 @@
 <!-- nntpjunkie.com -->
 <g id="node8" class="node">
 <title>nntpjunkie.com</title>
-<polygon fill="none" stroke="#444139" points="499.2819,-117 389.0153,-117 389.0153,-90 499.2819,-90 499.2819,-117"/>
-<text text-anchor="middle" x="444.1486" y="-99.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">nntpjunkie.com</text>
+<polygon fill="#444139" stroke="#444139" points="499.2819,-117 389.0153,-117 389.0153,-90 499.2819,-90 499.2819,-117"/>
+<text text-anchor="middle" x="444.1486" y="-99.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">nntpjunkie.com</text>
 </g>
 <!-- NewsGuy / HW Media&#45;&#45;nntpjunkie.com -->
 <g id="edge6" class="edge">
@@ -84,14 +84,14 @@
 <!-- Newscene  -->
 <g id="node9" class="node">
 <title>Newscene </title>
-<polygon fill="none" stroke="#ec2efa" points="111.792,-218 26.323,-218 26.323,-191 111.792,-191 111.792,-218"/>
-<text text-anchor="middle" x="69.0575" y="-200.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Newscene </text>
+<polygon fill="#ec2efa" stroke="#ec2efa" points="111.792,-218 26.323,-218 26.323,-191 111.792,-191 111.792,-218"/>
+<text text-anchor="middle" x="69.0575" y="-200.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">Newscene </text>
 </g>
 <!-- Novia / HW Media -->
 <g id="node10" class="node">
 <title>Novia / HW Media</title>
-<polygon fill="none" stroke="#ec2efa" points="321.8529,-218 193.2985,-218 193.2985,-191 321.8529,-191 321.8529,-218"/>
-<text text-anchor="middle" x="257.5757" y="-200.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Novia / HW Media</text>
+<polygon fill="#ec2efa" stroke="#ec2efa" points="321.8529,-218 193.2985,-218 193.2985,-191 321.8529,-191 321.8529,-218"/>
+<text text-anchor="middle" x="257.5757" y="-200.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">Novia / HW Media</text>
 </g>
 <!-- Newscene &#45;&#45;Novia / HW Media -->
 <g id="edge7" class="edge">
@@ -101,8 +101,8 @@
 <!-- Newscene -->
 <g id="node11" class="node">
 <title>Newscene</title>
-<polygon fill="none" stroke="#ec2efa" points="484.9929,-218 403.3043,-218 403.3043,-191 484.9929,-191 484.9929,-218"/>
-<text text-anchor="middle" x="444.1486" y="-200.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Newscene</text>
+<polygon fill="#ec2efa" stroke="#ec2efa" points="484.9929,-218 403.3043,-218 403.3043,-191 484.9929,-191 484.9929,-218"/>
+<text text-anchor="middle" x="444.1486" y="-200.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">Newscene</text>
 </g>
 <!-- Novia / HW Media&#45;&#45;Newscene -->
 <g id="edge8" class="edge">
@@ -112,8 +112,8 @@
 <!-- Premium News -->
 <g id="node12" class="node">
 <title>Premium News</title>
-<polygon fill="none" stroke="#ec2efa" points="681.4313,-218 570.6779,-218 570.6779,-191 681.4313,-191 681.4313,-218"/>
-<text text-anchor="middle" x="626.0546" y="-200.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Premium News</text>
+<polygon fill="#ec2efa" stroke="#ec2efa" points="681.4313,-218 570.6779,-218 570.6779,-191 681.4313,-191 681.4313,-218"/>
+<text text-anchor="middle" x="626.0546" y="-200.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">Premium News</text>
 </g>
 <!-- Newscene&#45;&#45;Premium News -->
 <g id="edge9" class="edge">
@@ -123,14 +123,14 @@
 <!-- Giganews -->
 <g id="node13" class="node">
 <title>Giganews</title>
-<polygon fill="none" stroke="#3f022e" points="108.2921,-286 29.8229,-286 29.8229,-259 108.2921,-259 108.2921,-286"/>
-<text text-anchor="middle" x="69.0575" y="-268.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Giganews</text>
+<polygon fill="#3f022e" stroke="#3f022e" points="108.2921,-286 29.8229,-286 29.8229,-259 108.2921,-259 108.2921,-286"/>
+<text text-anchor="middle" x="69.0575" y="-268.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">Giganews</text>
 </g>
 <!-- Giganews  -->
 <g id="node14" class="node">
 <title>Giganews </title>
-<polygon fill="none" stroke="#3f022e" points="298.7006,-286 216.4508,-286 216.4508,-259 298.7006,-259 298.7006,-286"/>
-<text text-anchor="middle" x="257.5757" y="-268.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Giganews </text>
+<polygon fill="#3f022e" stroke="#3f022e" points="298.7006,-286 216.4508,-286 216.4508,-259 298.7006,-259 298.7006,-286"/>
+<text text-anchor="middle" x="257.5757" y="-268.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">Giganews </text>
 </g>
 <!-- Giganews&#45;&#45;Giganews  -->
 <g id="edge10" class="edge">
@@ -140,8 +140,8 @@
 <!-- Giganews &#160; -->
 <g id="node15" class="node">
 <title>Giganews  </title>
-<polygon fill="none" stroke="#3f022e" points="487.164,-308 401.1332,-308 401.1332,-281 487.164,-281 487.164,-308"/>
-<text text-anchor="middle" x="444.1486" y="-290.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Giganews  </text>
+<polygon fill="#3f022e" stroke="#3f022e" points="487.164,-308 401.1332,-308 401.1332,-281 487.164,-281 487.164,-308"/>
+<text text-anchor="middle" x="444.1486" y="-290.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">Giganews  </text>
 </g>
 <!-- Giganews &#45;&#45;Giganews &#160; -->
 <g id="edge11" class="edge">
@@ -151,8 +151,8 @@
 <!-- Supernews -->
 <g id="node16" class="node">
 <title>Supernews</title>
-<polygon fill="none" stroke="#3f022e" points="487.1654,-263 401.1318,-263 401.1318,-236 487.1654,-236 487.1654,-263"/>
-<text text-anchor="middle" x="444.1486" y="-245.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Supernews</text>
+<polygon fill="#3f022e" stroke="#3f022e" points="487.1654,-263 401.1318,-263 401.1318,-236 487.1654,-236 487.1654,-263"/>
+<text text-anchor="middle" x="444.1486" y="-245.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">Supernews</text>
 </g>
 <!-- Giganews &#45;&#45;Supernews -->
 <g id="edge12" class="edge">
@@ -162,10 +162,10 @@
 <!-- PowerUsenet\nRhinoNewsgroups\nUsenet.net -->
 <g id="node17" class="node">
 <title>PowerUsenet\nRhinoNewsgroups\nUsenet.net</title>
-<polygon fill="none" stroke="#3f022e" points="691.4029,-323.9014 560.7063,-323.9014 560.7063,-265.0986 691.4029,-265.0986 691.4029,-323.9014"/>
-<text text-anchor="middle" x="626.0546" y="-307.1" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">PowerUsenet</text>
-<text text-anchor="middle" x="626.0546" y="-290.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">RhinoNewsgroups</text>
-<text text-anchor="middle" x="626.0546" y="-273.5" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Usenet.net</text>
+<polygon fill="#3f022e" stroke="#3f022e" points="691.4029,-323.9014 560.7063,-323.9014 560.7063,-265.0986 691.4029,-265.0986 691.4029,-323.9014"/>
+<text text-anchor="middle" x="626.0546" y="-307.1" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">PowerUsenet</text>
+<text text-anchor="middle" x="626.0546" y="-290.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">RhinoNewsgroups</text>
+<text text-anchor="middle" x="626.0546" y="-273.5" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">Usenet.net</text>
 </g>
 <!-- Giganews &#160;&#45;&#45;PowerUsenet\nRhinoNewsgroups\nUsenet.net -->
 <g id="edge13" class="edge">
@@ -175,13 +175,13 @@
 <!-- Usenet.Farm  -->
 <g id="node18" class="node">
 <title>Usenet.Farm </title>
-<polygon fill="none" stroke="#368a8b" points="119.3403,-388 18.7747,-388 18.7747,-361 119.3403,-361 119.3403,-388"/>
-<text text-anchor="middle" x="69.0575" y="-370.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Usenet.Farm </text>
+<polygon fill="#368a8b" stroke="#368a8b" points="119.3403,-388 18.7747,-388 18.7747,-361 119.3403,-361 119.3403,-388"/>
+<text text-anchor="middle" x="69.0575" y="-370.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">Usenet.Farm </text>
 </g>
 <!-- Its Hosted -->
 <g id="node19" class="node">
 <title>Its Hosted</title>
-<polygon fill="none" stroke="#368a8b" points="297.0925,-414.0168 218.0589,-414.0168 218.0589,-334.9832 297.0925,-334.9832 297.0925,-414.0168"/>
+<polygon fill="#368a8b" stroke="#368a8b" points="297.0925,-414.0168 218.0589,-414.0168 218.0589,-334.9832 297.0925,-334.9832 297.0925,-414.0168"/>
 <polyline fill="none" stroke="#368a8b" points="230.0589,-414.0168 218.0589,-402.0168 "/>
 <polyline fill="none" stroke="#368a8b" points="218.0589,-346.9832 230.0589,-334.9832 "/>
 <polyline fill="none" stroke="#368a8b" points="285.0925,-334.9832 297.0925,-346.9832 "/>
@@ -196,7 +196,7 @@
 <!-- Usenet.Farm -->
 <g id="node20" class="node">
 <title>Usenet.Farm</title>
-<polygon fill="none" stroke="#368a8b" points="492.5407,-422.8921 395.7565,-422.8921 395.7565,-326.1079 492.5407,-326.1079 492.5407,-422.8921"/>
+<polygon fill="#368a8b" stroke="#368a8b" points="492.5407,-422.8921 395.7565,-422.8921 395.7565,-326.1079 492.5407,-326.1079 492.5407,-422.8921"/>
 <polyline fill="none" stroke="#368a8b" points="407.7565,-422.8921 395.7565,-410.8921 "/>
 <polyline fill="none" stroke="#368a8b" points="395.7565,-338.1079 407.7565,-326.1079 "/>
 <polyline fill="none" stroke="#368a8b" points="480.5407,-326.1079 492.5407,-338.1079 "/>
@@ -211,9 +211,9 @@
 <!-- UsenetNews\nFrugalUsenet -->
 <g id="node21" class="node">
 <title>UsenetNews\nFrugalUsenet</title>
-<polygon fill="none" stroke="#368a8b" points="676.0672,-395.1019 576.042,-395.1019 576.042,-353.8981 676.0672,-353.8981 676.0672,-395.1019"/>
-<text text-anchor="middle" x="626.0546" y="-378.7" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">UsenetNews</text>
-<text text-anchor="middle" x="626.0546" y="-361.9" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">FrugalUsenet</text>
+<polygon fill="#368a8b" stroke="#368a8b" points="676.0672,-395.1019 576.042,-395.1019 576.042,-353.8981 676.0672,-353.8981 676.0672,-395.1019"/>
+<text text-anchor="middle" x="626.0546" y="-378.7" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">UsenetNews</text>
+<text text-anchor="middle" x="626.0546" y="-361.9" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">FrugalUsenet</text>
 </g>
 <!-- Usenet.Farm&#45;&#45;UsenetNews\nFrugalUsenet -->
 <g id="edge16" class="edge">
@@ -223,13 +223,13 @@
 <!-- Uzo Reto -->
 <g id="node22" class="node">
 <title>Uzo Reto</title>
-<polygon fill="none" stroke="#c16ffa" points="106.4005,-498 31.7145,-498 31.7145,-471 106.4005,-471 106.4005,-498"/>
-<text text-anchor="middle" x="69.0575" y="-480.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Uzo Reto</text>
+<polygon fill="#c16ffa" stroke="#c16ffa" points="106.4005,-498 31.7145,-498 31.7145,-471 106.4005,-471 106.4005,-498"/>
+<text text-anchor="middle" x="69.0575" y="-480.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">Uzo Reto</text>
 </g>
 <!-- ViperNews -->
 <g id="node23" class="node">
 <title>ViperNews</title>
-<polygon fill="none" stroke="#c16ffa" points="299.2412,-526.1655 215.9102,-526.1655 215.9102,-442.8345 299.2412,-442.8345 299.2412,-526.1655"/>
+<polygon fill="#c16ffa" stroke="#c16ffa" points="299.2412,-526.1655 215.9102,-526.1655 215.9102,-442.8345 299.2412,-442.8345 299.2412,-526.1655"/>
 <polyline fill="none" stroke="#c16ffa" points="227.9102,-526.1655 215.9102,-514.1655 "/>
 <polyline fill="none" stroke="#c16ffa" points="215.9102,-454.8345 227.9102,-442.8345 "/>
 <polyline fill="none" stroke="#c16ffa" points="287.2412,-442.8345 299.2412,-454.8345 "/>
@@ -244,7 +244,7 @@
 <!-- ViperNews  -->
 <g id="node24" class="node">
 <title>ViperNews </title>
-<polygon fill="none" stroke="#c16ffa" points="487.7051,-528.0565 400.5921,-528.0565 400.5921,-440.9435 487.7051,-440.9435 487.7051,-528.0565"/>
+<polygon fill="#c16ffa" stroke="#c16ffa" points="487.7051,-528.0565 400.5921,-528.0565 400.5921,-440.9435 487.7051,-440.9435 487.7051,-528.0565"/>
 <polyline fill="none" stroke="#c16ffa" points="412.5921,-528.0565 400.5921,-516.0565 "/>
 <polyline fill="none" stroke="#c16ffa" points="400.5921,-452.9435 412.5921,-440.9435 "/>
 <polyline fill="none" stroke="#c16ffa" points="475.7051,-440.9435 487.7051,-452.9435 "/>
@@ -259,9 +259,9 @@
 <!--  UsenetNews\nNovaUsenet -->
 <g id="node25" class="node">
 <title> UsenetNews\nNovaUsenet</title>
-<polygon fill="none" stroke="#c16ffa" points="675.7863,-505.1019 576.3229,-505.1019 576.3229,-463.8981 675.7863,-463.8981 675.7863,-505.1019"/>
-<text text-anchor="middle" x="626.0546" y="-488.7" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000"> UsenetNews</text>
-<text text-anchor="middle" x="626.0546" y="-471.9" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">NovaUsenet</text>
+<polygon fill="#c16ffa" stroke="#c16ffa" points="675.7863,-505.1019 576.3229,-505.1019 576.3229,-463.8981 675.7863,-463.8981 675.7863,-505.1019"/>
+<text text-anchor="middle" x="626.0546" y="-488.7" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff"> UsenetNews</text>
+<text text-anchor="middle" x="626.0546" y="-471.9" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">NovaUsenet</text>
 </g>
 <!-- ViperNews &#45;&#45; UsenetNews\nNovaUsenet -->
 <g id="edge19" class="edge">
@@ -271,14 +271,14 @@
 <!-- UsenetExpress -->
 <g id="node26" class="node">
 <title>UsenetExpress</title>
-<polygon fill="none" stroke="#2a7325" points="124.4649,-595 13.6501,-595 13.6501,-568 124.4649,-568 124.4649,-595"/>
-<text text-anchor="middle" x="69.0575" y="-577.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">UsenetExpress</text>
+<polygon fill="#2a7325" stroke="#2a7325" points="124.4649,-595 13.6501,-595 13.6501,-568 124.4649,-568 124.4649,-595"/>
+<text text-anchor="middle" x="69.0575" y="-577.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">UsenetExpress</text>
 </g>
 <!-- UsenetExpress  -->
 <g id="node27" class="node">
 <title>UsenetExpress </title>
-<polygon fill="none" stroke="#2a7325" points="314.8739,-618 200.2775,-618 200.2775,-591 314.8739,-591 314.8739,-618"/>
-<text text-anchor="middle" x="257.5757" y="-600.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">UsenetExpress </text>
+<polygon fill="#2a7325" stroke="#2a7325" points="314.8739,-618 200.2775,-618 200.2775,-591 314.8739,-591 314.8739,-618"/>
+<text text-anchor="middle" x="257.5757" y="-600.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">UsenetExpress </text>
 </g>
 <!-- UsenetExpress&#45;&#45;UsenetExpress  -->
 <g id="edge20" class="edge">
@@ -288,8 +288,8 @@
 <!-- NewsGroupDirect -->
 <g id="node32" class="node">
 <title>NewsGroupDirect</title>
-<polygon fill="none" stroke="#2a7325" points="321.0183,-573 194.1331,-573 194.1331,-546 321.0183,-546 321.0183,-573"/>
-<text text-anchor="middle" x="257.5757" y="-555.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">NewsGroupDirect</text>
+<polygon fill="#2a7325" stroke="#2a7325" points="321.0183,-573 194.1331,-573 194.1331,-546 321.0183,-546 321.0183,-573"/>
+<text text-anchor="middle" x="257.5757" y="-555.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">NewsGroupDirect</text>
 </g>
 <!-- UsenetExpress&#45;&#45;NewsGroupDirect -->
 <g id="edge25" class="edge">
@@ -299,8 +299,8 @@
 <!-- UsenetExpress &#160; -->
 <g id="node28" class="node">
 <title>UsenetExpress  </title>
-<polygon fill="none" stroke="#2a7325" points="503.3376,-663 384.9596,-663 384.9596,-636 503.3376,-636 503.3376,-663"/>
-<text text-anchor="middle" x="444.1486" y="-645.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">UsenetExpress  </text>
+<polygon fill="#2a7325" stroke="#2a7325" points="503.3376,-663 384.9596,-663 384.9596,-636 503.3376,-636 503.3376,-663"/>
+<text text-anchor="middle" x="444.1486" y="-645.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">UsenetExpress  </text>
 </g>
 <!-- UsenetExpress &#45;&#45;UsenetExpress &#160; -->
 <g id="edge21" class="edge">
@@ -310,8 +310,8 @@
 <!-- NewsDemon -->
 <g id="node30" class="node">
 <title>NewsDemon</title>
-<polygon fill="none" stroke="#2a7325" points="492.2595,-618 396.0377,-618 396.0377,-591 492.2595,-591 492.2595,-618"/>
-<text text-anchor="middle" x="444.1486" y="-600.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">NewsDemon</text>
+<polygon fill="#2a7325" stroke="#2a7325" points="492.2595,-618 396.0377,-618 396.0377,-591 492.2595,-591 492.2595,-618"/>
+<text text-anchor="middle" x="444.1486" y="-600.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">NewsDemon</text>
 </g>
 <!-- UsenetExpress &#45;&#45;NewsDemon -->
 <g id="edge23" class="edge">
@@ -321,8 +321,8 @@
 <!-- NewsGroupDirect  -->
 <g id="node31" class="node">
 <title>NewsGroupDirect </title>
-<polygon fill="none" stroke="#2a7325" points="509.4814,-573 378.8158,-573 378.8158,-546 509.4814,-546 509.4814,-573"/>
-<text text-anchor="middle" x="444.1486" y="-555.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">NewsGroupDirect </text>
+<polygon fill="#2a7325" stroke="#2a7325" points="509.4814,-573 378.8158,-573 378.8158,-546 509.4814,-546 509.4814,-573"/>
+<text text-anchor="middle" x="444.1486" y="-555.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">NewsGroupDirect </text>
 </g>
 <!-- UsenetExpress &#45;&#45;NewsGroupDirect  -->
 <g id="edge24" class="edge">
@@ -332,12 +332,12 @@
 <!-- UsenetNews\nUsenetPrime\n UsenetFire\nThunderNews\n theCubeNet -->
 <g id="node29" class="node">
 <title>UsenetNews\nUsenetPrime\n UsenetFire\nThunderNews\n theCubeNet</title>
-<polygon fill="none" stroke="#2a7325" points="677.6767,-695.5 574.4325,-695.5 574.4325,-603.5 677.6767,-603.5 677.6767,-695.5"/>
-<text text-anchor="middle" x="626.0546" y="-678.9" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">UsenetNews</text>
-<text text-anchor="middle" x="626.0546" y="-662.1" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">UsenetPrime</text>
-<text text-anchor="middle" x="626.0546" y="-645.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000"> UsenetFire</text>
-<text text-anchor="middle" x="626.0546" y="-628.5" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">ThunderNews</text>
-<text text-anchor="middle" x="626.0546" y="-611.7" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000"> theCubeNet</text>
+<polygon fill="#2a7325" stroke="#2a7325" points="677.6767,-695.5 574.4325,-695.5 574.4325,-603.5 677.6767,-603.5 677.6767,-695.5"/>
+<text text-anchor="middle" x="626.0546" y="-678.9" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">UsenetNews</text>
+<text text-anchor="middle" x="626.0546" y="-662.1" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">UsenetPrime</text>
+<text text-anchor="middle" x="626.0546" y="-645.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff"> UsenetFire</text>
+<text text-anchor="middle" x="626.0546" y="-628.5" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">ThunderNews</text>
+<text text-anchor="middle" x="626.0546" y="-611.7" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff"> theCubeNet</text>
 </g>
 <!-- UsenetExpress &#160;&#45;&#45;UsenetNews\nUsenetPrime\n UsenetFire\nThunderNews\n theCubeNet -->
 <g id="edge22" class="edge">
@@ -352,14 +352,14 @@
 <!-- Abavia -->
 <g id="node33" class="node">
 <title>Abavia</title>
-<polygon fill="none" stroke="#0000ff" points="98.3489,-1009 39.7661,-1009 39.7661,-982 98.3489,-982 98.3489,-1009"/>
-<text text-anchor="middle" x="69.0575" y="-991.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Abavia</text>
+<polygon fill="#0000ff" stroke="#0000ff" points="98.3489,-1009 39.7661,-1009 39.7661,-982 98.3489,-982 98.3489,-1009"/>
+<text text-anchor="middle" x="69.0575" y="-991.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">Abavia</text>
 </g>
 <!-- Abavia  -->
 <g id="node34" class="node">
 <title>Abavia </title>
-<polygon fill="none" stroke="#0000ff" points="288.7581,-1009 226.3933,-1009 226.3933,-982 288.7581,-982 288.7581,-1009"/>
-<text text-anchor="middle" x="257.5757" y="-991.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Abavia </text>
+<polygon fill="#0000ff" stroke="#0000ff" points="288.7581,-1009 226.3933,-1009 226.3933,-982 288.7581,-982 288.7581,-1009"/>
+<text text-anchor="middle" x="257.5757" y="-991.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">Abavia </text>
 </g>
 <!-- Abavia&#45;&#45;Abavia  -->
 <g id="edge27" class="edge">
@@ -369,8 +369,8 @@
 <!-- Cheapnews -->
 <g id="node35" class="node">
 <title>Cheapnews</title>
-<polygon fill="none" stroke="#0000ff" points="489.0574,-1144 399.2398,-1144 399.2398,-1117 489.0574,-1117 489.0574,-1144"/>
-<text text-anchor="middle" x="444.1486" y="-1126.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Cheapnews</text>
+<polygon fill="#0000ff" stroke="#0000ff" points="489.0574,-1144 399.2398,-1144 399.2398,-1117 489.0574,-1117 489.0574,-1144"/>
+<text text-anchor="middle" x="444.1486" y="-1126.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">Cheapnews</text>
 </g>
 <!-- Abavia &#45;&#45;Cheapnews -->
 <g id="edge28" class="edge">
@@ -380,8 +380,8 @@
 <!-- EasyUsenet -->
 <g id="node36" class="node">
 <title>EasyUsenet</title>
-<polygon fill="none" stroke="#0000ff" points="490.114,-1099 398.1832,-1099 398.1832,-1072 490.114,-1072 490.114,-1099"/>
-<text text-anchor="middle" x="444.1486" y="-1081.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">EasyUsenet</text>
+<polygon fill="#0000ff" stroke="#0000ff" points="490.114,-1099 398.1832,-1099 398.1832,-1072 490.114,-1072 490.114,-1099"/>
+<text text-anchor="middle" x="444.1486" y="-1081.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">EasyUsenet</text>
 </g>
 <!-- Abavia &#45;&#45;EasyUsenet -->
 <g id="edge29" class="edge">
@@ -391,8 +391,8 @@
 <!-- Usenet.nl -->
 <g id="node37" class="node">
 <title>Usenet.nl</title>
-<polygon fill="none" stroke="#0000ff" points="481.7735,-1054 406.5237,-1054 406.5237,-1027 481.7735,-1027 481.7735,-1054"/>
-<text text-anchor="middle" x="444.1486" y="-1036.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Usenet.nl</text>
+<polygon fill="#0000ff" stroke="#0000ff" points="481.7735,-1054 406.5237,-1054 406.5237,-1027 481.7735,-1027 481.7735,-1054"/>
+<text text-anchor="middle" x="444.1486" y="-1036.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">Usenet.nl</text>
 </g>
 <!-- Abavia &#45;&#45;Usenet.nl -->
 <g id="edge30" class="edge">
@@ -402,8 +402,8 @@
 <!-- Usenet.org -->
 <g id="node38" class="node">
 <title>Usenet.org</title>
-<polygon fill="none" stroke="#0000ff" points="486.6113,-1009 401.6859,-1009 401.6859,-982 486.6113,-982 486.6113,-1009"/>
-<text text-anchor="middle" x="444.1486" y="-991.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Usenet.org</text>
+<polygon fill="#0000ff" stroke="#0000ff" points="486.6113,-1009 401.6859,-1009 401.6859,-982 486.6113,-982 486.6113,-1009"/>
+<text text-anchor="middle" x="444.1486" y="-991.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">Usenet.org</text>
 </g>
 <!-- Abavia &#45;&#45;Usenet.org -->
 <g id="edge31" class="edge">
@@ -413,8 +413,8 @@
 <!-- Usenext -->
 <g id="node39" class="node">
 <title>Usenext</title>
-<polygon fill="none" stroke="#0000ff" points="477.9945,-964 410.3027,-964 410.3027,-937 477.9945,-937 477.9945,-964"/>
-<text text-anchor="middle" x="444.1486" y="-946.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Usenext</text>
+<polygon fill="#0000ff" stroke="#0000ff" points="477.9945,-964 410.3027,-964 410.3027,-937 477.9945,-937 477.9945,-964"/>
+<text text-anchor="middle" x="444.1486" y="-946.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">Usenext</text>
 </g>
 <!-- Abavia &#45;&#45;Usenext -->
 <g id="edge32" class="edge">
@@ -424,8 +424,8 @@
 <!-- XS News / Xenna -->
 <g id="node40" class="node">
 <title>XS News / Xenna</title>
-<polygon fill="none" stroke="#0000ff" points="506.8474,-919 381.4498,-919 381.4498,-892 506.8474,-892 506.8474,-919"/>
-<text text-anchor="middle" x="444.1486" y="-901.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">XS News / Xenna</text>
+<polygon fill="#0000ff" stroke="#0000ff" points="506.8474,-919 381.4498,-919 381.4498,-892 506.8474,-892 506.8474,-919"/>
+<text text-anchor="middle" x="444.1486" y="-901.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">XS News / Xenna</text>
 </g>
 <!-- Abavia &#45;&#45;XS News / Xenna -->
 <g id="edge33" class="edge">
@@ -435,8 +435,8 @@
 <!-- XS News -->
 <g id="node41" class="node">
 <title>XS News</title>
-<polygon fill="none" stroke="#0000ff" points="480.7095,-874 407.5877,-874 407.5877,-847 480.7095,-847 480.7095,-874"/>
-<text text-anchor="middle" x="444.1486" y="-856.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">XS News</text>
+<polygon fill="#0000ff" stroke="#0000ff" points="480.7095,-874 407.5877,-874 407.5877,-847 480.7095,-847 480.7095,-874"/>
+<text text-anchor="middle" x="444.1486" y="-856.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">XS News</text>
 </g>
 <!-- Abavia &#45;&#45;XS News -->
 <g id="edge34" class="edge">
@@ -446,24 +446,24 @@
 <!-- aEton\nBulknews\nDreamload\nGebruikhet\nI&#45;Telligent\nNewsGrabber\nNewsXS\nSMS Usenet\nStingy Usenet\nUsenet.today\nUsenetAgency\nUsenetDiscount\nUsenetDiscounter.com\nUsenet&#45;Server\nUseNight\nXS Usenet\nZ51 -->
 <g id="node42" class="node">
 <title>aEton\nBulknews\nDreamload\nGebruikhet\nI-Telligent\nNewsGrabber\nNewsXS\nSMS Usenet\nStingy Usenet\nUsenet.today\nUsenetAgency\nUsenetDiscount\nUsenetDiscounter.com\nUsenet-Server\nUseNight\nXS Usenet\nZ51</title>
-<polygon fill="none" stroke="#0000ff" points="704.6288,-1007.1003 547.4804,-1007.1003 547.4804,-713.8997 704.6288,-713.8997 704.6288,-1007.1003"/>
-<text text-anchor="middle" x="626.0546" y="-990.7" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">aEton</text>
-<text text-anchor="middle" x="626.0546" y="-973.9" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Bulknews</text>
-<text text-anchor="middle" x="626.0546" y="-957.1" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Dreamload</text>
-<text text-anchor="middle" x="626.0546" y="-940.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Gebruikhet</text>
-<text text-anchor="middle" x="626.0546" y="-923.5" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">I-Telligent</text>
-<text text-anchor="middle" x="626.0546" y="-906.7" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">NewsGrabber</text>
-<text text-anchor="middle" x="626.0546" y="-889.9" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">NewsXS</text>
-<text text-anchor="middle" x="626.0546" y="-873.1" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">SMS Usenet</text>
-<text text-anchor="middle" x="626.0546" y="-856.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Stingy Usenet</text>
-<text text-anchor="middle" x="626.0546" y="-839.5" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Usenet.today</text>
-<text text-anchor="middle" x="626.0546" y="-822.7" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">UsenetAgency</text>
-<text text-anchor="middle" x="626.0546" y="-805.9" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">UsenetDiscount</text>
-<text text-anchor="middle" x="626.0546" y="-789.1" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">UsenetDiscounter.com</text>
-<text text-anchor="middle" x="626.0546" y="-772.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Usenet-Server</text>
-<text text-anchor="middle" x="626.0546" y="-755.5" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">UseNight</text>
-<text text-anchor="middle" x="626.0546" y="-738.7" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">XS Usenet</text>
-<text text-anchor="middle" x="626.0546" y="-721.9" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Z51</text>
+<polygon fill="#0000ff" stroke="#0000ff" points="704.6288,-1007.1003 547.4804,-1007.1003 547.4804,-713.8997 704.6288,-713.8997 704.6288,-1007.1003"/>
+<text text-anchor="middle" x="626.0546" y="-990.7" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">aEton</text>
+<text text-anchor="middle" x="626.0546" y="-973.9" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">Bulknews</text>
+<text text-anchor="middle" x="626.0546" y="-957.1" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">Dreamload</text>
+<text text-anchor="middle" x="626.0546" y="-940.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">Gebruikhet</text>
+<text text-anchor="middle" x="626.0546" y="-923.5" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">I-Telligent</text>
+<text text-anchor="middle" x="626.0546" y="-906.7" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">NewsGrabber</text>
+<text text-anchor="middle" x="626.0546" y="-889.9" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">NewsXS</text>
+<text text-anchor="middle" x="626.0546" y="-873.1" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">SMS Usenet</text>
+<text text-anchor="middle" x="626.0546" y="-856.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">Stingy Usenet</text>
+<text text-anchor="middle" x="626.0546" y="-839.5" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">Usenet.today</text>
+<text text-anchor="middle" x="626.0546" y="-822.7" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">UsenetAgency</text>
+<text text-anchor="middle" x="626.0546" y="-805.9" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">UsenetDiscount</text>
+<text text-anchor="middle" x="626.0546" y="-789.1" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">UsenetDiscounter.com</text>
+<text text-anchor="middle" x="626.0546" y="-772.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">Usenet-Server</text>
+<text text-anchor="middle" x="626.0546" y="-755.5" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">UseNight</text>
+<text text-anchor="middle" x="626.0546" y="-738.7" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">XS Usenet</text>
+<text text-anchor="middle" x="626.0546" y="-721.9" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">Z51</text>
 </g>
 <!-- XS News&#45;&#45;aEton\nBulknews\nDreamload\nGebruikhet\nI&#45;Telligent\nNewsGrabber\nNewsXS\nSMS Usenet\nStingy Usenet\nUsenet.today\nUsenetAgency\nUsenetDiscount\nUsenetDiscounter.com\nUsenet&#45;Server\nUseNight\nXS Usenet\nZ51 -->
 <g id="edge35" class="edge">
@@ -473,14 +473,14 @@
 <!-- Omicron -->
 <g id="node43" class="node">
 <title>Omicron</title>
-<polygon fill="none" stroke="#ff0000" points="103.4412,-1530 34.6738,-1530 34.6738,-1503 103.4412,-1503 103.4412,-1530"/>
-<text text-anchor="middle" x="69.0575" y="-1512.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Omicron</text>
+<polygon fill="#ff0000" stroke="#ff0000" points="103.4412,-1530 34.6738,-1530 34.6738,-1503 103.4412,-1503 103.4412,-1530"/>
+<text text-anchor="middle" x="69.0575" y="-1512.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">Omicron</text>
 </g>
 <!-- Eweka Internet Services -->
 <g id="node44" class="node">
 <title>Eweka Internet Services</title>
-<polygon fill="none" stroke="#ff0000" points="340.9971,-1628 174.1543,-1628 174.1543,-1601 340.9971,-1601 340.9971,-1628"/>
-<text text-anchor="middle" x="257.5757" y="-1610.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Eweka Internet Services</text>
+<polygon fill="#ff0000" stroke="#ff0000" points="340.9971,-1628 174.1543,-1628 174.1543,-1601 340.9971,-1601 340.9971,-1628"/>
+<text text-anchor="middle" x="257.5757" y="-1610.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">Eweka Internet Services</text>
 </g>
 <!-- Omicron&#45;&#45;Eweka Internet Services -->
 <g id="edge36" class="edge">
@@ -490,8 +490,8 @@
 <!-- HW Media -->
 <g id="node46" class="node">
 <title>HW Media</title>
-<polygon fill="none" stroke="#ff0000" points="298.4032,-1530 216.7482,-1530 216.7482,-1503 298.4032,-1503 298.4032,-1530"/>
-<text text-anchor="middle" x="257.5757" y="-1512.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">HW Media</text>
+<polygon fill="#ff0000" stroke="#ff0000" points="298.4032,-1530 216.7482,-1530 216.7482,-1503 298.4032,-1503 298.4032,-1530"/>
+<text text-anchor="middle" x="257.5757" y="-1512.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">HW Media</text>
 </g>
 <!-- Omicron&#45;&#45;HW Media -->
 <g id="edge38" class="edge">
@@ -501,8 +501,8 @@
 <!-- Base IP / HW Media -->
 <g id="node53" class="node">
 <title>Base IP / HW Media</title>
-<polygon fill="none" stroke="#ff0000" points="328.5939,-1326 186.5575,-1326 186.5575,-1299 328.5939,-1299 328.5939,-1326"/>
-<text text-anchor="middle" x="257.5757" y="-1308.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Base IP / HW Media</text>
+<polygon fill="#ff0000" stroke="#ff0000" points="328.5939,-1326 186.5575,-1326 186.5575,-1299 328.5939,-1299 328.5939,-1326"/>
+<text text-anchor="middle" x="257.5757" y="-1308.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">Base IP / HW Media</text>
 </g>
 <!-- Omicron&#45;&#45;Base IP / HW Media -->
 <g id="edge45" class="edge">
@@ -512,7 +512,7 @@
 <!-- Eweka -->
 <g id="node45" class="node">
 <title>Eweka</title>
-<polygon fill="none" stroke="#ff0000" points="473.157,-1696.5084 415.1402,-1696.5084 415.1402,-1638.4916 473.157,-1638.4916 473.157,-1696.5084"/>
+<polygon fill="#ff0000" stroke="#ff0000" points="473.157,-1696.5084 415.1402,-1696.5084 415.1402,-1638.4916 473.157,-1638.4916 473.157,-1696.5084"/>
 <polyline fill="none" stroke="#ff0000" points="427.1402,-1696.5084 415.1402,-1684.5084 "/>
 <polyline fill="none" stroke="#ff0000" points="415.1402,-1650.4916 427.1402,-1638.4916 "/>
 <polyline fill="none" stroke="#ff0000" points="461.157,-1638.4916 473.157,-1650.4916 "/>
@@ -527,8 +527,8 @@
 <!-- Astraweb -->
 <g id="node47" class="node">
 <title>Astraweb</title>
-<polygon fill="none" stroke="#ff0000" points="481.4916,-1620 406.8056,-1620 406.8056,-1593 481.4916,-1593 481.4916,-1620"/>
-<text text-anchor="middle" x="444.1486" y="-1602.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Astraweb</text>
+<polygon fill="#ff0000" stroke="#ff0000" points="481.4916,-1620 406.8056,-1620 406.8056,-1593 481.4916,-1593 481.4916,-1620"/>
+<text text-anchor="middle" x="444.1486" y="-1602.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">Astraweb</text>
 </g>
 <!-- HW Media&#45;&#45;Astraweb -->
 <g id="edge39" class="edge">
@@ -538,8 +538,8 @@
 <!-- Easynews -->
 <g id="node48" class="node">
 <title>Easynews</title>
-<polygon fill="none" stroke="#ff0000" points="483.9399,-1575 404.3573,-1575 404.3573,-1548 483.9399,-1548 483.9399,-1575"/>
-<text text-anchor="middle" x="444.1486" y="-1557.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Easynews</text>
+<polygon fill="#ff0000" stroke="#ff0000" points="483.9399,-1575 404.3573,-1575 404.3573,-1548 483.9399,-1548 483.9399,-1575"/>
+<text text-anchor="middle" x="444.1486" y="-1557.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">Easynews</text>
 </g>
 <!-- HW Media&#45;&#45;Easynews -->
 <g id="edge40" class="edge">
@@ -549,8 +549,8 @@
 <!-- Newsgroup Ninja -->
 <g id="node49" class="node">
 <title>Newsgroup Ninja</title>
-<polygon fill="none" stroke="#ff0000" points="505.2118,-1530 383.0854,-1530 383.0854,-1503 505.2118,-1503 505.2118,-1530"/>
-<text text-anchor="middle" x="444.1486" y="-1512.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Newsgroup Ninja</text>
+<polygon fill="#ff0000" stroke="#ff0000" points="505.2118,-1530 383.0854,-1530 383.0854,-1503 505.2118,-1503 505.2118,-1530"/>
+<text text-anchor="middle" x="444.1486" y="-1512.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">Newsgroup Ninja</text>
 </g>
 <!-- HW Media&#45;&#45;Newsgroup Ninja -->
 <g id="edge41" class="edge">
@@ -560,8 +560,8 @@
 <!-- NewsHosting -->
 <g id="node50" class="node">
 <title>NewsHosting</title>
-<polygon fill="none" stroke="#ff0000" points="493.597,-1485 394.7002,-1485 394.7002,-1458 493.597,-1458 493.597,-1485"/>
-<text text-anchor="middle" x="444.1486" y="-1467.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">NewsHosting</text>
+<polygon fill="#ff0000" stroke="#ff0000" points="493.597,-1485 394.7002,-1485 394.7002,-1458 493.597,-1458 493.597,-1485"/>
+<text text-anchor="middle" x="444.1486" y="-1467.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">NewsHosting</text>
 </g>
 <!-- HW Media&#45;&#45;NewsHosting -->
 <g id="edge42" class="edge">
@@ -571,8 +571,8 @@
 <!-- UsenetServer -->
 <g id="node51" class="node">
 <title>UsenetServer</title>
-<polygon fill="none" stroke="#ff0000" points="494.7175,-1440 393.5797,-1440 393.5797,-1413 494.7175,-1413 494.7175,-1440"/>
-<text text-anchor="middle" x="444.1486" y="-1422.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">UsenetServer</text>
+<polygon fill="#ff0000" stroke="#ff0000" points="494.7175,-1440 393.5797,-1440 393.5797,-1413 494.7175,-1413 494.7175,-1440"/>
+<text text-anchor="middle" x="444.1486" y="-1422.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">UsenetServer</text>
 </g>
 <!-- HW Media&#45;&#45;UsenetServer -->
 <g id="edge43" class="edge">
@@ -582,40 +582,40 @@
 <!-- Alibis\nAnonyNews\nAtlantisNews\nBinary Boy\nBinTube\nBlockNews\nBudgetNews\nFast&#45;Usenet\nFirstload\nForte Agent\nFrugal Usenet\nHitNews\niLoad\nMaximumUsenet\nNewsFusion\nNewsGroup&#45;Binaries\nNewsGroupDownload\nNewsLeecher\nNgroups\nPrepaid&#45;Usenet\nShemes\nSimonNews\nSnelNL\nUncensored Newsfeed\nUsenet&#45;News\nUsenet.nl\nUsenet.se\nUsenet4u\nUsenetAccess\nUseNetNow\nUsenetStorm\nUsenext\nXenNews -->
 <g id="node52" class="node">
 <title>Alibis\nAnonyNews\nAtlantisNews\nBinary Boy\nBinTube\nBlockNews\nBudgetNews\nFast-Usenet\nFirstload\nForte Agent\nFrugal Usenet\nHitNews\niLoad\nMaximumUsenet\nNewsFusion\nNewsGroup-Binaries\nNewsGroupDownload\nNewsLeecher\nNgroups\nPrepaid-Usenet\nShemes\nSimonNews\nSnelNL\nUncensored Newsfeed\nUsenet-News\nUsenet.nl\nUsenet.se\nUsenet4u\nUsenetAccess\nUseNetNow\nUsenetStorm\nUsenext\nXenNews</title>
-<polygon fill="none" stroke="#ff0000" points="704.6427,-1764.9001 547.4665,-1764.9001 547.4665,-1202.0999 704.6427,-1202.0999 704.6427,-1764.9001"/>
-<text text-anchor="middle" x="626.0546" y="-1748.1" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Alibis</text>
-<text text-anchor="middle" x="626.0546" y="-1731.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">AnonyNews</text>
-<text text-anchor="middle" x="626.0546" y="-1714.5" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">AtlantisNews</text>
-<text text-anchor="middle" x="626.0546" y="-1697.7" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Binary Boy</text>
-<text text-anchor="middle" x="626.0546" y="-1680.9" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">BinTube</text>
-<text text-anchor="middle" x="626.0546" y="-1664.1" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">BlockNews</text>
-<text text-anchor="middle" x="626.0546" y="-1647.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">BudgetNews</text>
-<text text-anchor="middle" x="626.0546" y="-1630.5" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Fast-Usenet</text>
-<text text-anchor="middle" x="626.0546" y="-1613.7" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Firstload</text>
-<text text-anchor="middle" x="626.0546" y="-1596.9" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Forte Agent</text>
-<text text-anchor="middle" x="626.0546" y="-1580.1" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Frugal Usenet</text>
-<text text-anchor="middle" x="626.0546" y="-1563.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">HitNews</text>
-<text text-anchor="middle" x="626.0546" y="-1546.5" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">iLoad</text>
-<text text-anchor="middle" x="626.0546" y="-1529.7" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">MaximumUsenet</text>
-<text text-anchor="middle" x="626.0546" y="-1512.9" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">NewsFusion</text>
-<text text-anchor="middle" x="626.0546" y="-1496.1" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">NewsGroup-Binaries</text>
-<text text-anchor="middle" x="626.0546" y="-1479.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">NewsGroupDownload</text>
-<text text-anchor="middle" x="626.0546" y="-1462.5" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">NewsLeecher</text>
-<text text-anchor="middle" x="626.0546" y="-1445.7" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Ngroups</text>
-<text text-anchor="middle" x="626.0546" y="-1428.9" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Prepaid-Usenet</text>
-<text text-anchor="middle" x="626.0546" y="-1412.1" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Shemes</text>
-<text text-anchor="middle" x="626.0546" y="-1395.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">SimonNews</text>
-<text text-anchor="middle" x="626.0546" y="-1378.5" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">SnelNL</text>
-<text text-anchor="middle" x="626.0546" y="-1361.7" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Uncensored Newsfeed</text>
-<text text-anchor="middle" x="626.0546" y="-1344.9" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Usenet-News</text>
-<text text-anchor="middle" x="626.0546" y="-1328.1" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Usenet.nl</text>
-<text text-anchor="middle" x="626.0546" y="-1311.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Usenet.se</text>
-<text text-anchor="middle" x="626.0546" y="-1294.5" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Usenet4u</text>
-<text text-anchor="middle" x="626.0546" y="-1277.7" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">UsenetAccess</text>
-<text text-anchor="middle" x="626.0546" y="-1260.9" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">UseNetNow</text>
-<text text-anchor="middle" x="626.0546" y="-1244.1" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">UsenetStorm</text>
-<text text-anchor="middle" x="626.0546" y="-1227.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">Usenext</text>
-<text text-anchor="middle" x="626.0546" y="-1210.5" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">XenNews</text>
+<polygon fill="#ff0000" stroke="#ff0000" points="704.6427,-1764.9001 547.4665,-1764.9001 547.4665,-1202.0999 704.6427,-1202.0999 704.6427,-1764.9001"/>
+<text text-anchor="middle" x="626.0546" y="-1748.1" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">Alibis</text>
+<text text-anchor="middle" x="626.0546" y="-1731.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">AnonyNews</text>
+<text text-anchor="middle" x="626.0546" y="-1714.5" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">AtlantisNews</text>
+<text text-anchor="middle" x="626.0546" y="-1697.7" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">Binary Boy</text>
+<text text-anchor="middle" x="626.0546" y="-1680.9" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">BinTube</text>
+<text text-anchor="middle" x="626.0546" y="-1664.1" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">BlockNews</text>
+<text text-anchor="middle" x="626.0546" y="-1647.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">BudgetNews</text>
+<text text-anchor="middle" x="626.0546" y="-1630.5" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">Fast-Usenet</text>
+<text text-anchor="middle" x="626.0546" y="-1613.7" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">Firstload</text>
+<text text-anchor="middle" x="626.0546" y="-1596.9" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">Forte Agent</text>
+<text text-anchor="middle" x="626.0546" y="-1580.1" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">Frugal Usenet</text>
+<text text-anchor="middle" x="626.0546" y="-1563.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">HitNews</text>
+<text text-anchor="middle" x="626.0546" y="-1546.5" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">iLoad</text>
+<text text-anchor="middle" x="626.0546" y="-1529.7" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">MaximumUsenet</text>
+<text text-anchor="middle" x="626.0546" y="-1512.9" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">NewsFusion</text>
+<text text-anchor="middle" x="626.0546" y="-1496.1" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">NewsGroup-Binaries</text>
+<text text-anchor="middle" x="626.0546" y="-1479.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">NewsGroupDownload</text>
+<text text-anchor="middle" x="626.0546" y="-1462.5" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">NewsLeecher</text>
+<text text-anchor="middle" x="626.0546" y="-1445.7" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">Ngroups</text>
+<text text-anchor="middle" x="626.0546" y="-1428.9" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">Prepaid-Usenet</text>
+<text text-anchor="middle" x="626.0546" y="-1412.1" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">Shemes</text>
+<text text-anchor="middle" x="626.0546" y="-1395.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">SimonNews</text>
+<text text-anchor="middle" x="626.0546" y="-1378.5" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">SnelNL</text>
+<text text-anchor="middle" x="626.0546" y="-1361.7" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">Uncensored Newsfeed</text>
+<text text-anchor="middle" x="626.0546" y="-1344.9" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">Usenet-News</text>
+<text text-anchor="middle" x="626.0546" y="-1328.1" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">Usenet.nl</text>
+<text text-anchor="middle" x="626.0546" y="-1311.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">Usenet.se</text>
+<text text-anchor="middle" x="626.0546" y="-1294.5" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">Usenet4u</text>
+<text text-anchor="middle" x="626.0546" y="-1277.7" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">UsenetAccess</text>
+<text text-anchor="middle" x="626.0546" y="-1260.9" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">UseNetNow</text>
+<text text-anchor="middle" x="626.0546" y="-1244.1" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">UsenetStorm</text>
+<text text-anchor="middle" x="626.0546" y="-1227.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">Usenext</text>
+<text text-anchor="middle" x="626.0546" y="-1210.5" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">XenNews</text>
 </g>
 <!-- NewsHosting&#45;&#45;Alibis\nAnonyNews\nAtlantisNews\nBinary Boy\nBinTube\nBlockNews\nBudgetNews\nFast&#45;Usenet\nFirstload\nForte Agent\nFrugal Usenet\nHitNews\niLoad\nMaximumUsenet\nNewsFusion\nNewsGroup&#45;Binaries\nNewsGroupDownload\nNewsLeecher\nNgroups\nPrepaid&#45;Usenet\nShemes\nSimonNews\nSnelNL\nUncensored Newsfeed\nUsenet&#45;News\nUsenet.nl\nUsenet.se\nUsenet4u\nUsenetAccess\nUseNetNow\nUsenetStorm\nUsenext\nXenNews -->
 <g id="edge44" class="edge">
@@ -625,8 +625,8 @@
 <!-- TweakNews -->
 <g id="node54" class="node">
 <title>TweakNews</title>
-<polygon fill="none" stroke="#ff0000" points="490.3691,-1371 397.9281,-1371 397.9281,-1344 490.3691,-1344 490.3691,-1371"/>
-<text text-anchor="middle" x="444.1486" y="-1353.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">TweakNews</text>
+<polygon fill="#ff0000" stroke="#ff0000" points="490.3691,-1371 397.9281,-1371 397.9281,-1344 490.3691,-1344 490.3691,-1371"/>
+<text text-anchor="middle" x="444.1486" y="-1353.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">TweakNews</text>
 </g>
 <!-- Base IP / HW Media&#45;&#45;TweakNews -->
 <g id="edge46" class="edge">
@@ -636,8 +636,8 @@
 <!-- PureUsenet -->
 <g id="node55" class="node">
 <title>PureUsenet</title>
-<polygon fill="none" stroke="#ff0000" points="489.056,-1326 399.2412,-1326 399.2412,-1299 489.056,-1299 489.056,-1326"/>
-<text text-anchor="middle" x="444.1486" y="-1308.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">PureUsenet</text>
+<polygon fill="#ff0000" stroke="#ff0000" points="489.056,-1326 399.2412,-1326 399.2412,-1299 489.056,-1299 489.056,-1326"/>
+<text text-anchor="middle" x="444.1486" y="-1308.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">PureUsenet</text>
 </g>
 <!-- Base IP / HW Media&#45;&#45;PureUsenet -->
 <g id="edge47" class="edge">
@@ -647,8 +647,8 @@
 <!-- SunnyUsenet -->
 <g id="node56" class="node">
 <title>SunnyUsenet</title>
-<polygon fill="none" stroke="#ff0000" points="494.178,-1281 394.1192,-1281 394.1192,-1254 494.178,-1254 494.178,-1281"/>
-<text text-anchor="middle" x="444.1486" y="-1263.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">SunnyUsenet</text>
+<polygon fill="#ff0000" stroke="#ff0000" points="494.178,-1281 394.1192,-1281 394.1192,-1254 494.178,-1254 494.178,-1281"/>
+<text text-anchor="middle" x="444.1486" y="-1263.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">SunnyUsenet</text>
 </g>
 <!-- Base IP / HW Media&#45;&#45;SunnyUsenet -->
 <g id="edge48" class="edge">
@@ -658,8 +658,8 @@
 <!-- XLned -->
 <g id="node57" class="node">
 <title>XLned</title>
-<polygon fill="none" stroke="#ff0000" points="472.6175,-1189 415.6797,-1189 415.6797,-1162 472.6175,-1162 472.6175,-1189"/>
-<text text-anchor="middle" x="444.1486" y="-1171.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">XLned</text>
+<polygon fill="#ff0000" stroke="#ff0000" points="472.6175,-1189 415.6797,-1189 415.6797,-1162 472.6175,-1162 472.6175,-1189"/>
+<text text-anchor="middle" x="444.1486" y="-1171.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">XLned</text>
 </g>
 <!-- Base IP / HW Media&#45;&#45;XLned -->
 <g id="edge49" class="edge">
@@ -669,9 +669,9 @@
 <!-- ExtremeUsenet\nUsenetBucket -->
 <g id="node58" class="node">
 <title>ExtremeUsenet\nUsenetBucket</title>
-<polygon fill="none" stroke="#ff0000" points="682.5141,-1184.1019 569.5951,-1184.1019 569.5951,-1142.8981 682.5141,-1142.8981 682.5141,-1184.1019"/>
-<text text-anchor="middle" x="626.0546" y="-1167.7" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">ExtremeUsenet</text>
-<text text-anchor="middle" x="626.0546" y="-1150.9" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#000000">UsenetBucket</text>
+<polygon fill="#ff0000" stroke="#ff0000" points="682.5141,-1184.1019 569.5951,-1184.1019 569.5951,-1142.8981 682.5141,-1142.8981 682.5141,-1184.1019"/>
+<text text-anchor="middle" x="626.0546" y="-1167.7" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">ExtremeUsenet</text>
+<text text-anchor="middle" x="626.0546" y="-1150.9" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">UsenetBucket</text>
 </g>
 <!-- XLned&#45;&#45;ExtremeUsenet\nUsenetBucket -->
 <g id="edge50" class="edge">
