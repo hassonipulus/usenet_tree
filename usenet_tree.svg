@@ -410,13 +410,15 @@
 <title>UsenetExpress &#45;&#45;NewsGroupDirect </title>
 <path fill="none" stroke="#ffffff" d="M320.0467,-670.9841C345.1946,-665.1956 374.7959,-658.382 400.2007,-652.5344"/>
 </g>
-<!-- UsenetNews\nUsenetPrime\n UsenetFire -->
+<!-- UsenetNews\nUsenetPrime\n UsenetFire\nThunderNews\n theCubeNet -->
 <g id="node39" class="node">
 <title>UsenetNews\nUsenetPrime\n UsenetFire</title>
 <polygon fill="#2a7325" stroke="#2a7325" points="698.5,-755.5 601.5,-755.5 601.5,-702.5 698.5,-702.5 698.5,-755.5"/>
 <text text-anchor="middle" x="650" y="-740.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">UsenetNews</text>
 <text text-anchor="middle" x="650" y="-725.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">UsenetPrime</text>
 <text text-anchor="middle" x="650" y="-710.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff"> UsenetFire</text>
+<text text-anchor="middle" x="650" y="-695.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff">ThunderNews</text>
+<text text-anchor="middle" x="650" y="-680.3" font-family="Helvetica,sans-Serif" font-size="14.00" fill="#ffffff"> theCubeNet</text>
 </g>
 <!-- UsenetExpress &#160;&#45;&#45;UsenetNews\nUsenetPrime\n UsenetFire -->
 <g id="edge29" class="edge">
