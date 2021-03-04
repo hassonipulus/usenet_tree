@@ -68,7 +68,9 @@ node[fontcolor=white]
     node [shape = box style="filled" color=black] 
 "Company" -- "Backbone" -- "Provider" -- "Resellers"
 	node[shape=hexagon fillcolor=black] edge [style=invis]
-"NTD"  -- "DMCA"
+"NTD"  
+node[shape=box]
+"NTD" -- "DMCA"
 
 	node[shape=hexagon fillcolor=black fontcolor="#ffb700"] edge [style=invis]
 "NTD"  -- "DMCA" -- "NTD+DCMA"
