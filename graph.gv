@@ -75,41 +75,7 @@ node[shape=box]
 	node[shape=hexagon fillcolor=black fontcolor="#ffb700"] edge [style=invis]
 "NTD"  -- "DMCA" -- "NTD+DCMA"
 node[shape = box fontcolor=white] edge [style=invis]
-"Remastered by Catnicia"--"Vesion 04-03-2021" -- "Forked from burwinch/usenet_tree"
+"Remastered by Catnicia"--"Last updated: March 04 2021" -- "Forked from burwinch/usenet_tree"
 
 
 }
-
-/*The " -- " symbol defiines a relationship between "parent -- child"
-
-Some companies/providers/backbones have the same name Eg Altopia_company_ serves Altopia_backbone
-who then serves Altopia_provider, because they all have to have unique names I just added some extra spaces
-at the end eg "Altopia" -- "Altopia " -- "Altoipia  "
-
-
-To generate an updated version it's all doable in your browser and we've kept it fairly simple.
-
-https://edotor.net/ is probably where you're viewing this from.
-
-As you edit the left text you'll see, in real time, the changes made on the right side.
-
-Importantly when you're done editing, in the top-left click the "Download" button, select SVG.
-
-Woopdidoo, you now have downloaded an updated tree diagram.
-
-Also importantly, in the top right corner click "Copy Share Link". Now you can share this link 
-for people to resume where ever you left off editing.
-
-
-The rest is fairly self explanitory. 
-
-For the non-programmers:
-
-The " -- " symbol defiines a relationship between "parent -- child"
-
-Curly braces "{}" constrict code to within the braces eg. "{node[shape=folder fontcolor=orange] Eweka}" the "shape" and "fontcolor" only effects "Eweka" because it's the only thing contained within the curly braces
-
-"\n" does a new line, eg "UsenetNews\nUsenetPrime\n UsenetFire" puts each reseller on a new line
-
-"#" is a comment which doesn't effect the code, effects from "#" til the end of the line
-*/
