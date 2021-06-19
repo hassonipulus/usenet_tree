@@ -1,0 +1,96 @@
+# https://edotor.net/
+graph usenetmap {
+    bgcolor=white  	# Background color
+    overlap=scale
+
+    node [shape=box style=filled fontcolor=white height=.37 fontname=Helvetica] # These effect everything below unless overridden by another "node[]" statement
+    edge [color=black] # The edge is the lines between company/backbone/provider reseller
+
+    {
+        # Companies
+        node [shape=house, color=black]
+        rank = same; "Omicron"; "Abavia"; "UsenetExpress"; "Uzo Reto"; "Usenet.Farm"; "Giganews"; "Newscene"; "NewsGuy"; "United Newsserver";
+    }
+
+    {
+        # Backbones
+        rank = same; {node [color=red] "Eweka Internet Services"}; {node [color=red] "HW Media"}; {node [color=red] "Base IP / HW Media"}; {node [color="#368a8b", shape=hexagon] "Its Hosted"}; {node [color=blue] "Abavia "}; {node [color="#2a7325"] "UsenetExpress "}; {node [color="#f6b72d", shape=hexagon] "ViperNews"}; {node [color="#ec2efa"] "Novia / HW Media"}; {node [color="#92623a"] "NewsGuy / HW Media"}; {node [color="#3098d8"] "Giganews "}; {node [color="#6c1494"] "Elbracht"};
+    }
+
+    {
+        # Cross-provider links
+        edge [style=dashed]
+        {node [color=red] "HW Media"} -- {node [color=red] "Base IP / HW Media"}
+        {node [color=red] "HW Media"} -- {node [color="#ec2efa"] "Novia / HW Media"}
+        {node [color=red] "HW Media"} -- {node [color="#92623a"] "NewsGuy / HW Media"}
+        {node [color="#368a8b"] "Usenet.Farm "} -- {node [color=blue] "Abavia "}
+    }
+
+    {
+        node [color="#6c1494"] # We change the colour of each company, eg omicron is "red"
+        {node [shape=house] "United Newsserver"} --	"Elbracht"
+            "Elbracht" -- "United Newsserver "
+            "Elbracht" -- "Premium News "
+    }
+    
+    {
+        node [color="#92623a"]
+        {node [shape=house] "NewsGuy"} -- "NewsGuy / HW Media" -- "NewsGuy "
+            "NewsGuy / HW Media" -- "nntpjunkie.com"
+    }
+
+    {
+        node [color="#ec2efa"]
+        {node [shape=house] "Newscene"} -- "Novia / HW Media" -- "Newscene " -- "Premium News"
+    }
+ 
+    {
+        node [color="#3098d8"]
+        {node [shape=house] "Giganews"} --	"Giganews " -- "Giganews  "
+            "Giganews " --	"Supernews"
+            "Giganews  " --	"PowerUsenet\nRhinoNewsgroups\nUsenet.net"
+    }
+
+    {
+        node [color="#368a8b"]
+        {node [shape=house] "Usenet.Farm"} -- "Its Hosted" -- {node[shape=hexagon]"Usenet.Farm "} -- "UsenetNews\nFrugalUsenet" #the "{node[shape=folder fontcolor=orange]"Usenet.Farm"}" is for marking something as NTD
+    }
+
+    {
+        node [color="#f6b72d"]
+        {node [shape=house] "Uzo Reto"} -- "ViperNews" -- {node[shape=hexagon]"ViperNews "} -- " UsenetNews\nNovaUsenet"
+    }
+
+    {
+        node [color="#2a7325"]
+        {node [shape=house] "UsenetExpress"} -- "UsenetExpress " -- "UsenetExpress  "
+            "UsenetExpress  " -- "UsenetNews\nUsenetPrime\n UsenetFire\nThunderNews\n theCubeNet"
+        "UsenetExpress" -- "NewsGroupDirect"
+            "UsenetExpress " -- { "NewsDemon" "NewsGroupDirect" }
+    }
+
+    {
+        node [color=blue]
+        {node [shape=house] "Abavia"} -- "Abavia " -- { "Cheapnews" "EasyUsenet" "Usenet.nl" "Usenet.org" "Usenext" "XS News / Xenna" "XS News" }
+        "XS News" -- "aEton\nBulknews\nDreamload\nGebruikhet\nI-Telligent\nNewsGrabber\nNewsXS\nSMS Usenet\nStingy Usenet\nUsenet.today\nUsenetAgency\nUsenetDiscount\nUsenetDiscounter.com\nUsenet-Server\nUseNight\nXS Usenet\nZ51"
+    }
+
+    {
+        node [color=red]
+        {node [shape=house] "Omicron"} --  "Eweka Internet Services" -- {node[shape=hexagon] "Eweka"}
+        "Omicron" -- { "HW Media" "Base IP / HW Media" }
+            "HW Media" -- { "Astraweb" "Easynews" "Newsgroup Ninja" "NewsHosting" "UsenetServer" }
+                "NewsHosting" -- "Alibis\nAnonyNews\nAtlantisNews\nBinary Boy\nBinTube\nBlockNews\nBudgetNews\nFast-Usenet\nFirstload\nForte Agent\nFrugal Usenet\nHitNews\niLoad\nMaximumUsenet\nNewsFusion\nNewsGroup-Binaries\nNewsGroupDownload\nNewsLeecher\nNgroups\nPrepaid-Usenet\nShemes\nSimonNews\nSnelNL\nUncensored Newsfeed\nUsenet-News\nUsenet.nl\nUsenet.se\nUsenet4u\nUsenetAccess\nUseNetNow\nUsenetStorm\nUsenext\nXenNews"
+    
+        {
+            node[shape=hexagon fontcolor="#ffb700"]
+            "Base IP / HW Media" -- "TweakNews"
+        }
+        
+        {
+            node[fontcolor=white]
+            "Base IP / HW Media" -- { "PureUsenet" "SunnyUsenet" "XLned" }
+                "XLned" -- "ExtremeUsenet\nUsenetBucket"
+        }
+    }
+}

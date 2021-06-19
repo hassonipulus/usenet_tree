@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="497pt" height="260pt" viewBox="0.00 0.00 497.25 260.00">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 256)">
+<title>usenetlegend</title>
+<polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-256 493.2486,-256 493.2486,4 -4,4"/>
+<!-- Company -->
+<g id="node1" class="node">
+<title>Company</title>
+<polygon fill="#000000" stroke="#000000" points="120.1797,-239.5623 60.0599,-252 -.0599,-239.5623 -.0038,-219.4377 120.1236,-219.4377 120.1797,-239.5623"/>
+<text text-anchor="middle" x="60.0599" y="-229.8" font-family="Times,serif" font-size="14.00" fill="#ffffff">Company</text>
+</g>
+<!-- Backbone -->
+<g id="node2" class="node">
+<title>Backbone</title>
+<polygon fill="#000000" stroke="#000000" points="96.0403,-180 24.0795,-180 24.0795,-144 96.0403,-144 96.0403,-180"/>
+<text text-anchor="middle" x="60.0599" y="-157.8" font-family="Times,serif" font-size="14.00" fill="#ffffff">Backbone</text>
+</g>
+<!-- Company&#45;&#45;Backbone -->
+<g id="edge1" class="edge">
+<title>Company--Backbone</title>
+<path fill="none" stroke="#000000" d="M60.0599,-219.4297C60.0599,-208.0886 60.0599,-192.2862 60.0599,-180.128"/>
+</g>
+<!-- Provider -->
+<g id="node3" class="node">
+<title>Provider</title>
+<polygon fill="#000000" stroke="#000000" points="92.2692,-108 27.8505,-108 27.8505,-72 92.2692,-72 92.2692,-108"/>
+<text text-anchor="middle" x="60.0599" y="-85.8" font-family="Times,serif" font-size="14.00" fill="#ffffff">Provider</text>
+</g>
+<!-- Backbone&#45;&#45;Provider -->
+<g id="edge2" class="edge">
+<title>Backbone--Provider</title>
+<path fill="none" stroke="#000000" d="M60.0599,-143.8314C60.0599,-133 60.0599,-119.2876 60.0599,-108.4133"/>
+</g>
+<!-- Resellers -->
+<g id="node4" class="node">
+<title>Resellers</title>
+<polygon fill="#000000" stroke="#000000" points="93.872,-36 26.2478,-36 26.2478,0 93.872,0 93.872,-36"/>
+<text text-anchor="middle" x="60.0599" y="-13.8" font-family="Times,serif" font-size="14.00" fill="#ffffff">Resellers</text>
+</g>
+<!-- Provider&#45;&#45;Resellers -->
+<g id="edge3" class="edge">
+<title>Provider--Resellers</title>
+<path fill="none" stroke="#000000" d="M60.0599,-71.8314C60.0599,-61 60.0599,-47.2876 60.0599,-36.4133"/>
+</g>
+<!-- NTD -->
+<g id="node5" class="node">
+<title>NTD</title>
+<polygon fill="#000000" stroke="#000000" points="220.8717,-234 202.9658,-252 167.154,-252 149.2481,-234 167.154,-216 202.9658,-216 220.8717,-234"/>
+<text text-anchor="middle" x="185.0599" y="-229.8" font-family="Times,serif" font-size="14.00" fill="#ffffff">NTD</text>
+</g>
+<!-- DMCA -->
+<g id="node6" class="node">
+<title>DMCA</title>
+<polygon fill="#000000" stroke="#000000" points="214.0543,-180 156.0655,-180 156.0655,-144 214.0543,-144 214.0543,-180"/>
+<text text-anchor="middle" x="185.0599" y="-157.8" font-family="Times,serif" font-size="14.00" fill="#ffffff">DMCA</text>
+</g>
+<!-- NTD&#45;&#45;DMCA -->
+<!-- NTD&#45;&#45;DMCA -->
+<!-- NTD+DCMA -->
+<g id="node7" class="node">
+<title>NTD+DCMA</title>
+<polygon fill="#000000" stroke="#000000" points="260.3435,-90 222.7017,-108 147.4181,-108 109.7763,-90 147.4181,-72 222.7017,-72 260.3435,-90"/>
+<text text-anchor="middle" x="185.0599" y="-85.8" font-family="Times,serif" font-size="14.00" fill="#ffb700">NTD+DCMA</text>
+</g>
+<!-- DMCA&#45;&#45;NTD+DCMA -->
+<!-- Remastered by Catnicia -->
+<g id="node8" class="node">
+<title>Remastered by Catnicia</title>
+<polygon fill="#000000" stroke="#000000" points="458.7937,-252 309.326,-252 309.326,-216 458.7937,-216 458.7937,-252"/>
+<text text-anchor="middle" x="384.0599" y="-229.8" font-family="Times,serif" font-size="14.00" fill="#ffffff">Remastered by Catnicia</text>
+</g>
+<!-- Last updated: June 19 2021 -->
+<g id="node9" class="node">
+<title>Last updated: June 19 2021</title>
+<polygon fill="#000000" stroke="#000000" points="469.0319,-180 299.0879,-180 299.0879,-144 469.0319,-144 469.0319,-180"/>
+<text text-anchor="middle" x="384.0599" y="-157.8" font-family="Times,serif" font-size="14.00" fill="#ffffff">Last updated: June 19 2021</text>
+</g>
+<!-- Remastered by Catnicia&#45;&#45;Last updated: June 19 2021 -->
+<!-- Forked from burwinch/usenet_tree -->
+<g id="node10" class="node">
+<title>Forked from burwinch/usenet_tree</title>
+<polygon fill="#000000" stroke="#000000" points="489.4376,-108 278.6821,-108 278.6821,-72 489.4376,-72 489.4376,-108"/>
+<text text-anchor="middle" x="384.0599" y="-85.8" font-family="Times,serif" font-size="14.00" fill="#ffffff">Forked from burwinch/usenet_tree</text>
+</g>
+<!-- Last updated: June 19 2021&#45;&#45;Forked from burwinch/usenet_tree -->
+</g>
+</svg>
