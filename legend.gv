@@ -1,0 +1,17 @@
+# https://edotor.net/
+graph usenetlegend {
+    node [shape=box style="filled" color=black fontcolor=white] 
+    {node [shape=house] "Company"} -- "Backbone" -- "Provider" -- "Resellers"
+	
+    node[shape=hexagon fillcolor=black] edge [style=invis]
+    "NTD"  
+
+    node[shape=box]
+    "NTD" -- "DMCA"
+
+	node[shape=hexagon fillcolor=black fontcolor="#ffb700"] edge [style=invis]
+    "NTD"  -- "DMCA" -- "NTD+DCMA"
+
+    node[shape=box fontcolor=white] edge [style=invis]
+    "Remastered by Catnicia"--"Last updated: June 19 2021" -- "Forked from burwinch/usenet_tree"
+}
